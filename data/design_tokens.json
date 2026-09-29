@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "colors": {
+    "ink": "#17213F",
+    "cobalt": "#4775FF",
+    "cyan": "#3EDDE6",
+    "coral": "#FF6B83",
+    "gold": "#FFC857",
+    "paper": "#FFF4DF",
+    "muted": "#A5B4D9",
+    "room": "#2C3767"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "radii": {
+    "chip": 14,
+    "button": 22,
+    "card": 30,
+    "modal": 36
+  },
+  "type": {
+    "display": 76,
+    "title": 38,
+    "heading": 28,
+    "body": 23,
+    "caption": 17
+  },
+  "motion": {
+    "modal_seconds": 0.21,
+    "travel_seconds": 0.8,
+    "hover_amplitude": 0.045,
+    "head_bob": false,
+    "reduced_motion": "immediate_pose"
+  },
+  "materials": {
+    "enamel_roughness": 0.3,
+    "metal_roughness": 0.45,
+    "wall_roughness": 0.9,
+    "paper_roughness": 0.95
+  },
+  "light": {
+    "key": "upper_left",
+    "key_color": "#FFF0D7",
+    "fill_color": "#AEC6FF",
+    "shadows": "soft_contact"
+  },
+  "button_states": [
+    "normal",
+    "hover",
+    "pressed",
+    "focus",
+    "disabled"
+  ],
+  "rendering": {
+    "board_candidate": "3d",
+    "crew_candidate": "3d",
+    "museum_candidate": "3d",
+    "logic": "existing_2d_state",
+    "device_gate": "P13",
+    "decision": "P03 measured desktop prototype; production implementation P05/P07 and device gate P13"
+  },
+  "heist_v2": {
+    "revision": "2026-09-23-r12",
+    "reference": "artifacts/artifacts/heist-v2-level1.png",
+    "background": {
+      "gradient_top": "#C9C3F0",
+      "gradient_bottom": "#F3D6E8",
+      "pattern_opacity": 0.08,
+      "star_count_min": 6,
+      "star_count_max": 10,
+      "silhouette_color": "#A9A5D2",
+      "silhouette_opacity_max": 0.35
+    },
+    "hud": {
+      "pause_fill": "#8E7CE0",
+      "speed_fill": "#3BA7F0",
+      "star_gold": "#FFBD0D",
+      "ribbon_gold": "#FFC857"
+    },
+    "frame": {
+      "gold_fill": "#F6C445",
+      "gold_edge": "#B4791E",
+      "glow": "#FFF3C0",
+      "width_fraction": 0.92
+    },
+    "carrier": {
+      "enamel_shell": "#F5F3E7",
+      "dark_contour": "#223541",
+      "dome_glass": "#DCEAFF"
+    },
+    "bug": {
+      "shell_red": "#E23B3B",
+      "mask_black": "#20242B",
+      "eye_led": "#7CF7FF",
+      "contour": "#20242B"
+    },
+    "toolbar": {
+      "fill": "#9D95CF",
+      "edge": "#7D76AA",
+      "badge_gold": "#FFBD0D"
+    },
+    "outline": {
+      "thick_white": "#FFFFFF",
+      "dark_contour": "#2A2440"
+    }
+  }
+}

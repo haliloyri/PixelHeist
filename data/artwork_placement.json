@@ -1,0 +1,402 @@
+[
+  {
+    "level": 1,
+    "art_id": "sun_seal"
+  },
+  {
+    "level": 2,
+    "art_id": "sapphire_cup"
+  },
+  {
+    "level": 3,
+    "art_id": "girl_with_a_pearl_earring"
+  },
+  {
+    "level": 4,
+    "art_id": "starry_night"
+  },
+  {
+    "level": 5,
+    "art_id": "moon_gate_mask"
+  },
+  {
+    "level": 6,
+    "art_id": "mona_lisa"
+  },
+  {
+    "level": 7,
+    "art_id": "the_kiss"
+  },
+  {
+    "level": 8,
+    "art_id": "the_scream"
+  },
+  {
+    "level": 9,
+    "art_id": "birth_of_venus"
+  },
+  {
+    "level": 10,
+    "art_id": "water_lilies"
+  },
+  {
+    "level": 11,
+    "art_id": "the_gleaners"
+  },
+  {
+    "level": 12,
+    "art_id": "the_magpie"
+  },
+  {
+    "level": 13,
+    "art_id": "the_star"
+  },
+  {
+    "level": 14,
+    "art_id": "dance_at_le_moulin_de_la_galette"
+  },
+  {
+    "level": 15,
+    "art_id": "apples_and_oranges"
+  },
+  {
+    "level": 16,
+    "art_id": "aic_28560"
+  },
+  {
+    "level": 17,
+    "art_id": "aic_80607"
+  },
+  {
+    "level": 18,
+    "art_id": "aic_14586"
+  },
+  {
+    "level": 19,
+    "art_id": "met_436535"
+  },
+  {
+    "level": 20,
+    "art_id": "met_436528"
+  },
+  {
+    "level": 21,
+    "art_id": "met_436532"
+  },
+  {
+    "level": 22,
+    "art_id": "met_436533"
+  },
+  {
+    "level": 23,
+    "art_id": "met_436534"
+  },
+  {
+    "level": 24,
+    "art_id": "met_436530"
+  },
+  {
+    "level": 25,
+    "art_id": "met_436527"
+  },
+  {
+    "level": 26,
+    "art_id": "aic_87088"
+  },
+  {
+    "level": 27,
+    "art_id": "aic_16571"
+  },
+  {
+    "level": 28,
+    "art_id": "aic_64818"
+  },
+  {
+    "level": 29,
+    "art_id": "aic_14620"
+  },
+  {
+    "level": 30,
+    "art_id": "aic_14598"
+  },
+  {
+    "level": 31,
+    "art_id": "aic_81537"
+  },
+  {
+    "level": 32,
+    "art_id": "aic_81539"
+  },
+  {
+    "level": 33,
+    "art_id": "aic_16584"
+  },
+  {
+    "level": 34,
+    "art_id": "aic_14655"
+  },
+  {
+    "level": 35,
+    "art_id": "aic_81558"
+  },
+  {
+    "level": 36,
+    "art_id": "aic_81555"
+  },
+  {
+    "level": 37,
+    "art_id": "aic_25825"
+  },
+  {
+    "level": 38,
+    "art_id": "aic_16617"
+  },
+  {
+    "level": 39,
+    "art_id": "aic_111436"
+  },
+  {
+    "level": 40,
+    "art_id": "aic_16487"
+  },
+  {
+    "level": 41,
+    "art_id": "aic_62371"
+  },
+  {
+    "level": 42,
+    "art_id": "aic_14561"
+  },
+  {
+    "level": 43,
+    "art_id": "aic_14572"
+  },
+  {
+    "level": 44,
+    "art_id": "aic_18951"
+  },
+  {
+    "level": 45,
+    "art_id": "aic_84076"
+  },
+  {
+    "level": 46,
+    "art_id": "met_436123"
+  },
+  {
+    "level": 47,
+    "art_id": "aic_27992"
+  },
+  {
+    "level": 48,
+    "art_id": "met_437654"
+  },
+  {
+    "level": 49,
+    "art_id": "aic_20684"
+  },
+  {
+    "level": 50,
+    "art_id": "aic_81533"
+  },
+  {
+    "level": 51,
+    "art_id": "aic_14591"
+  },
+  {
+    "level": 52,
+    "art_id": "met_436947"
+  },
+  {
+    "level": 53,
+    "art_id": "aic_27943"
+  },
+  {
+    "level": 54,
+    "art_id": "aic_19339"
+  },
+  {
+    "level": 55,
+    "art_id": "met_438821"
+  },
+  {
+    "level": 56,
+    "art_id": "aic_61128"
+  },
+  {
+    "level": 57,
+    "art_id": "aic_16146"
+  },
+  {
+    "level": 58,
+    "art_id": "aic_14664"
+  },
+  {
+    "level": 59,
+    "art_id": "aic_81551"
+  },
+  {
+    "level": 60,
+    "art_id": "aic_110541"
+  },
+  {
+    "level": 61,
+    "art_id": "aic_87000"
+  },
+  {
+    "level": 62,
+    "art_id": "aic_16633"
+  },
+  {
+    "level": 63,
+    "art_id": "aic_81561"
+  },
+  {
+    "level": 64,
+    "art_id": "aic_11723"
+  },
+  {
+    "level": 65,
+    "art_id": "aic_153798"
+  },
+  {
+    "level": 66,
+    "art_id": "aic_111442"
+  },
+  {
+    "level": 67,
+    "art_id": "aic_26650"
+  },
+  {
+    "level": 68,
+    "art_id": "aic_56905"
+  },
+  {
+    "level": 69,
+    "art_id": "aic_81574"
+  },
+  {
+    "level": 70,
+    "art_id": "aic_4796"
+  },
+  {
+    "level": 71,
+    "art_id": "aic_109938"
+  },
+  {
+    "level": 72,
+    "art_id": "aic_4758"
+  },
+  {
+    "level": 73,
+    "art_id": "aic_27027"
+  },
+  {
+    "level": 74,
+    "art_id": "aic_81505"
+  },
+  {
+    "level": 75,
+    "art_id": "aic_110982"
+  },
+  {
+    "level": 76,
+    "art_id": "aic_24645"
+  },
+  {
+    "level": 77,
+    "art_id": "aic_87008"
+  },
+  {
+    "level": 78,
+    "art_id": "met_437880"
+  },
+  {
+    "level": 79,
+    "art_id": "met_437881"
+  },
+  {
+    "level": 80,
+    "art_id": "met_437878"
+  },
+  {
+    "level": 81,
+    "art_id": "met_437394"
+  },
+  {
+    "level": 82,
+    "art_id": "met_437397"
+  },
+  {
+    "level": 83,
+    "art_id": "met_12127"
+  },
+  {
+    "level": 84,
+    "art_id": "met_11122"
+  },
+  {
+    "level": 85,
+    "art_id": "met_11417"
+  },
+  {
+    "level": 86,
+    "art_id": "met_10497"
+  },
+  {
+    "level": 87,
+    "art_id": "met_10154"
+  },
+  {
+    "level": 88,
+    "art_id": "met_10481"
+  },
+  {
+    "level": 89,
+    "art_id": "met_435809"
+  },
+  {
+    "level": 90,
+    "art_id": "met_436576"
+  },
+  {
+    "level": 91,
+    "art_id": "met_436838"
+  },
+  {
+    "level": 92,
+    "art_id": "met_436839"
+  },
+  {
+    "level": 93,
+    "art_id": "met_436105"
+  },
+  {
+    "level": 94,
+    "art_id": "met_435702"
+  },
+  {
+    "level": 95,
+    "art_id": "met_435844"
+  },
+  {
+    "level": 96,
+    "art_id": "met_436658"
+  },
+  {
+    "level": 97,
+    "art_id": "met_435621"
+  },
+  {
+    "level": 98,
+    "art_id": "met_11227"
+  },
+  {
+    "level": 99,
+    "art_id": "aic_25865"
+  },
+  {
+    "level": 100,
+    "art_id": "met_435868"
+  }
+]

@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "energy_max": 10,
+  "energy_refill_seconds": 1200,
+  "energy_refill_gold": 900,
+  "start_gold": 200,
+  "win_gold": {
+    "": 40,
+    "HARD": 80,
+    "SUPER HARD": 120
+  },
+  "replay_gold": 10,
+  "booster_price": 300,
+  "continue_gold": 900,
+  "stars_per_chest": 10,
+  "star_chest": {
+    "gold": 100,
+    "boosters": 1
+  },
+  "chapter_chest": {
+    "gold": 200,
+    "boosters": 2
+  },
+  "daily": [
+    {
+      "gold": 50,
+      "boosters": 0
+    },
+    {
+      "gold": 75,
+      "boosters": 0
+    },
+    {
+      "gold": 100,
+      "boosters": 1
+    },
+    {
+      "gold": 125,
+      "boosters": 0
+    },
+    {
+      "gold": 150,
+      "boosters": 1
+    },
+    {
+      "gold": 200,
+      "boosters": 0
+    },
+    {
+      "gold": 300,
+      "boosters": 2
+    }
+  ],
+  "free_coins_gold": 50,
+  "free_coins_daily_cap": 5,
+  "ads_from_heist": 8,
+  "interstitial_every_heists": 2,
+  "interstitial_min_seconds": 180,
+  "boosters": [
+    "extra_dock",
+    "zap",
+    "scout_fly",
+    "master_key",
+    "row_beam"
+  ],
+  "tutorial_gift_heist": 4,
+  "tutorial_gift": {
+    "extra_dock": 2
+  },
+  "looks": {
+    "drone_copper": {
+      "slot": "drone",
+      "price": 0,
+      "name": "Copper Drone"
+    },
+    "drone_cobalt": {
+      "slot": "drone",
+      "price": 1500,
+      "name": "Cobalt Drone"
+    },
+    "drone_gold": {
+      "slot": "drone",
+      "price": 4000,
+      "name": "Gold Drone"
+    },
+    "box_wood": {
+      "slot": "box",
+      "price": 0,
+      "name": "Wooden Crate"
+    },
+    "box_brass": {
+      "slot": "box",
+      "price": 2000,
+      "name": "Brass Crate"
+    },
+    "box_neon": {
+      "slot": "box",
+      "price": 5000,
+      "name": "Neon Crate"
+    },
+    "drone_special": {
+      "slot": "drone",
+      "price": -1,
+      "name": "Night Drone"
+    }
+  },
+  "products": {
+    "starter_pack": {
+      "price": "₺49,99",
+      "gold": 1000,
+      "boosters": 2,
+      "unlimited_energy_seconds": 3600,
+      "once": true,
+      "name": "Starter Pack"
+    },
+    "coins_s": {
+      "price": "₺99,99",
+      "gold": 1200,
+      "name": "Coins S"
+    },
+    "coins_m": {
+      "price": "₺399,99",
+      "gold": 6000,
+      "name": "Coins M"
+    },
+    "coins_l": {
+      "price": "₺799,99",
+      "gold": 14000,
+      "name": "Coins L"
+    },
+    "no_ads": {
+      "price": "₺399,99",
+      "no_ads": true,
+      "once": true,
+      "name": "No Ads"
+    },
+    "no_ads_pack": {
+      "price": "₺499,99",
+      "no_ads": true,
+      "gold": 3000,
+      "boosters": 3,
+      "once": true,
+      "name": "No Ads Pack"
+    },
+    "special_offer": {
+      "price": "₺249,99",
+      "gold": 2500,
+      "boosters": 2,
+      "look": "drone_special",
+      "once": true,
+      "name": "Special Offer"
+    }
+  },
+  "speed3_gold": 300,
+  "speed3_seconds": 300
+}

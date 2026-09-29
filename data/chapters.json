@@ -1,0 +1,1831 @@
+{
+ "version": 1,
+ "opening": [
+  {
+   "background": "museum_hall",
+   "bubbles": [
+    {
+     "speaker": "rocco",
+     "text": "Five paintings. One night."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Let's go."
+    }
+   ],
+   "art": "ch01_opening"
+  }
+ ],
+ "chapters": [
+  {
+   "id": "first_commission",
+   "number": 1,
+   "title": "First Commission",
+   "case": "Glimmer's sample collection",
+   "finale": "Moon Gate Mask",
+   "act": 1,
+   "background": "museum_hall",
+   "heists": [
+    "sun_seal",
+    "sapphire_cup",
+    "girl_with_a_pearl_earring",
+    "starry_night",
+    "moon_gate_mask"
+   ],
+   "difficulty": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "bit",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "The client asked for something small."
+    },
+    {
+     "speaker": "rocco",
+     "text": "They meant the budget."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "You left the frame?"
+    },
+    {
+     "speaker": "rocco",
+     "text": "I respect their decorating choices."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Rocco. Our device is on this list."
+    }
+   ],
+   "outro": [
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Our device is on the delivery list."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then nobody gets delivered anything."
+      }
+     ],
+     "art": "ch01_1"
+    },
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "We keep the works. All of them."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "The Curator will not like that."
+      }
+     ],
+     "art": "ch01_2"
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "tuck",
+       "text": "Welcome to your new gallery."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Hang them straight. We stay."
+      }
+     ],
+     "art": "ch01_3"
+    }
+   ]
+  },
+  {
+   "id": "false_owners",
+   "number": 2,
+   "title": "False Owners",
+   "case": "Private European exhibitions",
+   "finale": "Water Lilies",
+   "act": 1,
+   "background": "giverny",
+   "heists": [
+    "mona_lisa",
+    "the_kiss",
+    "the_scream",
+    "birth_of_venus",
+    "water_lilies"
+   ],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    ""
+   ],
+   "fragment": 1,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "tuck",
+     "text": "That wall was missing something."
+    },
+    {
+     "speaker": "rocco",
+     "text": "A museum somewhere agrees."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "The label is newer than the paint."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Someone rewrote whose painting this was."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "There's a second layer. A hidden archive."
+    }
+   ],
+   "outro": [
+    {
+     "background": "giverny",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Barnaby Bramble hid records inside it."
+      },
+      {
+       "speaker": "rocco",
+       "text": "A restorer with secrets. I like him."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "One fragment. How many left?"
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Four more, hidden in four works."
+      }
+     ]
+    },
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Next stop, Paris."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Pack the small screwdrivers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lower_threshold",
+   "number": 3,
+   "title": "Lower Threshold",
+   "case": "A Paris restoration chain",
+   "finale": "Apples and Oranges",
+   "act": 1,
+   "background": "paris",
+   "heists": [
+    "the_gleaners",
+    "the_magpie",
+    "the_star",
+    "dance_at_le_moulin_de_la_galette",
+    "apples_and_oranges"
+   ],
+   "difficulty": [
+    "",
+    "",
+    "",
+    "HARD",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "dash",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Bottom entry only. Mind the gaps."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Colors can wait. We cannot."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Five docks now? Getting fancy."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Right color. Early choice. Careful."
+    },
+    {
+     "speaker": "rocco",
+     "text": "That's not the artist's mark."
+    }
+   ],
+   "outro": [
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Someone copied the maker's mark."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Atlas workshops. Same tool marks."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "I'm Quill. I check claims."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then check this one."
+      }
+     ]
+    },
+    {
+     "background": "iznik",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Atlas ships through Istanbul depots."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then so do we."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "harbor_collection",
+   "number": 4,
+   "title": "Harbor Collection",
+   "case": "Fictional Istanbul depots",
+   "finale": "Shore Ledger",
+   "act": 1,
+   "background": "iznik",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "There's a fortune in the van."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Then watch the potholes."
+    },
+    {
+     "speaker": "quill",
+     "text": "This stamp proves nothing alone."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Good. I hate easy answers."
+    },
+    {
+     "speaker": "quill",
+     "text": "The ledger links Atlas to shipping."
+    }
+   ],
+   "outro": [
+    {
+     "background": "iznik",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Atlas moves art under false names."
+      },
+      {
+       "speaker": "rocco",
+       "text": "We follow the ships, not the Curator."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "No more deliveries. Our own job now."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Our rules. Our museum."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Next shipment left on a wrong address."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Let's go find it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wrong_address",
+   "number": 5,
+   "title": "Wrong Address",
+   "case": "A transport collection",
+   "finale": "Return Ticket",
+   "act": 2,
+   "background": "vienna",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 0,
+   "crew": "gizmo",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "This crate was sent twice."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Nobody ships a painting twice by accident."
+    },
+    {
+     "speaker": "tuck",
+     "text": "The frames are lovely. The paperwork isn't."
+    },
+    {
+     "speaker": "quill",
+     "text": "The label points north. The route doesn't."
+    },
+    {
+     "speaker": "rocco",
+     "text": "A return ticket nobody meant to use."
+    }
+   ],
+   "outro": [
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "The false label hid the real route."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Toward a harbor archive."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "tuck",
+       "text": "Your gallery is filling up fast."
+      },
+      {
+       "speaker": "rocco",
+       "text": "It's a collection, not a hoard."
+      }
+     ]
+    },
+    {
+     "background": "oslo",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "A sealed shipment waits in the archive."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Sealed is just a suggestion."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sealed_shipment",
+   "number": 6,
+   "title": "Sealed Shipment",
+   "case": "A harbor archive",
+   "finale": "Blue Shipping Plate",
+   "act": 2,
+   "background": "oslo",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    ""
+   ],
+   "fragment": 2,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Inner colors first. Trust me."
+    },
+    {
+     "speaker": "rocco",
+     "text": "I always trust you. Mostly."
+    },
+    {
+     "speaker": "quill",
+     "text": "Every crate lists the same foundation."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Atlas Foundation. Preserving their own story."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Second fragment. Barnaby was thorough."
+    }
+   ],
+   "outro": [
+    {
+     "background": "oslo",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Fragment two maps the transfer network."
+      },
+      {
+       "speaker": "quill",
+       "text": "Glimmer funds every link of it."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Two of five. Halfway to proof."
+      },
+      {
+       "speaker": "quill",
+       "text": "Proof needs people, not just files."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Glimmer is hosting a silent auction."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then I'll bid very quietly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "silent_auction",
+   "number": 7,
+   "title": "Silent Auction",
+   "case": "A private Vienna invitation",
+   "finale": "Gold-Faced Clock",
+   "act": 2,
+   "background": "vienna",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "",
+    "HARD",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "hum",
+   "win_bubbles": [
+    {
+     "speaker": "tuck",
+     "text": "Black tie. Try not to steal the chairs."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Only the art. Probably."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "These hues are almost identical."
+    },
+    {
+     "speaker": "quill",
+     "text": "Every buyer here owes Glimmer favors."
+    },
+    {
+     "speaker": "rocco",
+     "text": "This signature. I've seen it before."
+    }
+   ],
+   "outro": [
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "The Curator signed this years ago."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "So the Curator worked for Atlas."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "An unsigned letter could prove it."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Where would a designer hide it?"
+      }
+     ]
+    },
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "tuck",
+       "text": "In storage. Designers never throw things away."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Neither do thieves."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "unsigned_letter",
+   "number": 8,
+   "title": "Unsigned Letter",
+   "case": "An exhibition designer's storage",
+   "finale": "Half an Invitation",
+   "act": 2,
+   "background": "florence",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "tuck",
+     "text": "I know this designer's style."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Then you know where he hides things."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Half an invitation. Where's the rest?"
+    },
+    {
+     "speaker": "quill",
+     "text": "The ink matches the Curator's letters."
+    },
+    {
+     "speaker": "quill",
+     "text": "Verified. Same hand, same signature."
+    }
+   ],
+   "outro": [
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "The Curator is inside Atlas's history."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then we stop taking his calls."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "He just called. Twice."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Let it ring."
+      }
+     ]
+    },
+    {
+     "background": "hague",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Two collections claim the same painting."
+      },
+      {
+       "speaker": "rocco",
+       "text": "One of them is lying."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "two_collections",
+   "number": 9,
+   "title": "Two Collections",
+   "case": "Amsterdam salons",
+   "finale": "Double-Labeled Landscape",
+   "act": 3,
+   "background": "hague",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 0,
+   "crew": "flicker",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Islands of color. Keep a spare dock."
+    },
+    {
+     "speaker": "rocco",
+     "text": "I always keep a spare something."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Two salons, two proud owners."
+    },
+    {
+     "speaker": "quill",
+     "text": "One record, assigned to two objects."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Someone erased a family from this."
+    }
+   ],
+   "outro": [
+    {
+     "background": "hague",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "One ownership record, two paintings."
+      },
+      {
+       "speaker": "rocco",
+       "text": "A history copied onto a stranger."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "The restoration archive holds the originals."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then we visit the archive."
+      }
+     ]
+    },
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Let's see who wrote twice."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Double entry. Old accounting trick."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "double_entry",
+   "number": 10,
+   "title": "Double Entry",
+   "case": "A restoration archive",
+   "finale": "Twice-Written Portrait",
+   "act": 3,
+   "background": "paris",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "",
+    "HARD",
+    ""
+   ],
+   "fragment": 3,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Early inner colors cost us later."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Everything costs us later."
+    },
+    {
+     "speaker": "quill",
+     "text": "This portrait was painted over a name."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Someone wanted a face forgotten."
+    },
+    {
+     "speaker": "frost",
+     "text": "Hello, Rocco. I'm the Curator."
+    }
+   ],
+   "outro": [
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "I am Mr. Frost. We should talk."
+      },
+      {
+       "speaker": "rocco",
+       "text": "You put my device on a list."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "Under one roof, they would be safe."
+      },
+      {
+       "speaker": "rocco",
+       "text": "And only you get the key."
+      }
+     ]
+    },
+    {
+     "background": "anatolia",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Fragment three names living families."
+      },
+      {
+       "speaker": "quill",
+       "text": "Then we find them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missing_voices",
+   "number": 11,
+   "title": "Missing Voices",
+   "case": "A family and community archive",
+   "finale": "Entrusted Chest",
+   "act": 3,
+   "background": "anatolia",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "pinch",
+   "win_bubbles": [
+    {
+     "speaker": "quill",
+     "text": "These records have living grandchildren."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Then this isn't just a heist."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Calmer colors today. Good for nerves."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "The chest was entrusted, not sold."
+    },
+    {
+     "speaker": "quill",
+     "text": "A family name, finally back."
+    }
+   ],
+   "outro": [
+    {
+     "background": "anatolia",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "The chest came home. So did a name."
+      },
+      {
+       "speaker": "rocco",
+       "text": "That felt better than a payday."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "tuck",
+       "text": "People want to see your gallery."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then let's open the door."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "One night. One public showing."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "What could possibly go wrong?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "open_door",
+   "number": 12,
+   "title": "Open Door",
+   "case": "A closed exhibition depot",
+   "finale": "Exhibition No. 12",
+   "act": 3,
+   "background": "museum_hall",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "tuck",
+     "text": "Twelve works, one wall, no pressure."
+    },
+    {
+     "speaker": "rocco",
+     "text": "I work well under pressure."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Smooth queue. Enjoy it while it lasts."
+    },
+    {
+     "speaker": "quill",
+     "text": "The press is already outside."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Let them see what Atlas hid."
+    }
+   ],
+   "outro": [
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Your first showing made headlines."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Good ones, I hope."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "glimmer",
+       "text": "Young Rocco. You borrowed my things."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Baron Glimmer. Finally."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "glimmer",
+       "text": "Let's discuss this politely. At Atlas."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Polite is how you threaten people."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "polite_threat",
+   "number": 13,
+   "title": "Polite Threat",
+   "case": "An Atlas invitation",
+   "finale": "Silver Card Case",
+   "act": 4,
+   "background": "vienna",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "skitter",
+   "win_bubbles": [
+    {
+     "speaker": "glimmer",
+     "text": "Every newspaper owes me dinner."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Then they can pay for it."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Mystery packets everywhere. Classic Glimmer."
+    },
+    {
+     "speaker": "quill",
+     "text": "He's calling you a common thief."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Uncommon, surely. Look at this work."
+    }
+   ],
+   "outro": [
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Glimmer is attacking you through the press."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then we document the source."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "A publisher changed witness testimony."
+      },
+      {
+       "speaker": "sprocket",
+       "text": "Whose story, then?"
+      }
+     ]
+    },
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Let's ask the publisher's collection."
+      },
+      {
+       "speaker": "quill",
+       "text": "Carefully. They sue people."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "whose_story",
+   "number": 14,
+   "title": "Whose Story?",
+   "case": "A publisher's collection",
+   "finale": "Before the Press",
+   "act": 4,
+   "background": "florence",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "",
+    "HARD",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "quill",
+     "text": "The first draft tells the truth."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Always keep the first draft."
+    },
+    {
+     "speaker": "tuck",
+     "text": "A short job. Breathe a little."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Someone edited a witness out."
+    },
+    {
+     "speaker": "quill",
+     "text": "Here's what they said before the press."
+    }
+   ],
+   "outro": [
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "The testimony was rewritten for Glimmer."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then we print the original."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "The next fragment sits in a closed exhibition."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Closed is my favorite kind."
+      }
+     ]
+    },
+    {
+     "background": "oslo",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Pressure's rising. Be careful tonight."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Careful is my middle name."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pressure_after_dark",
+   "number": 15,
+   "title": "Pressure After Dark",
+   "case": "A closed exhibition",
+   "finale": "Closed Window",
+   "act": 4,
+   "background": "oslo",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 4,
+   "crew": "velvet",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Edge rules and mysteries. Fun night."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Define fun, Sprocket."
+    },
+    {
+     "speaker": "quill",
+     "text": "Guards changed shifts early tonight."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Your museum is all over the news."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Fragment four. Names of beneficiaries."
+    }
+   ],
+   "outro": [
+    {
+     "background": "oslo",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Fragment four lists who profited."
+      },
+      {
+       "speaker": "quill",
+       "text": "Glimmer, Atlas, and three quiet partners."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "Give me the archive. I'll protect it."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Protect it, or own it?"
+      }
+     ]
+    },
+    {
+     "background": "anatolia",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "There's another way. Shared custody."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Trust spread across many hands."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cost_of_trust",
+   "number": 16,
+   "title": "The Cost of Trust",
+   "case": "A preservation network",
+   "finale": "Three-Key Box",
+   "act": 4,
+   "background": "anatolia",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "quill",
+     "text": "Three keys, three keepers."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Nobody holds everything. I like that."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Even your gallery needs friends."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "The box opens only together."
+    },
+    {
+     "speaker": "frost",
+     "text": "You're building a network against me."
+    }
+   ],
+   "outro": [
+    {
+     "background": "anatolia",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Researchers and communities, sharing custody."
+      },
+      {
+       "speaker": "rocco",
+       "text": "An answer to Mr. Frost's single roof."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Atlas is moving its archive tonight."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Moving targets. My specialty."
+      }
+     ]
+    },
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "They're destroying pages as they go."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then we move faster."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "missing_page",
+   "number": 17,
+   "title": "Missing Page",
+   "case": "A moving Atlas archive",
+   "finale": "Cut Album",
+   "act": 5,
+   "background": "paris",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "tock",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Inner passages. Plan every route."
+    },
+    {
+     "speaker": "rocco",
+     "text": "I plan. I just don't announce it."
+    },
+    {
+     "speaker": "quill",
+     "text": "Half these pages are ash."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Save what you can, Rocco."
+    },
+    {
+     "speaker": "quill",
+     "text": "A destruction order. Signed by Glimmer."
+    }
+   ],
+   "outro": [
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Glimmer ordered the records destroyed."
+      },
+      {
+       "speaker": "rocco",
+       "text": "He was always afraid of history."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "glimmer",
+       "text": "Name your price for silence."
+      },
+      {
+       "speaker": "rocco",
+       "text": "You can't afford it."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "He wants to negotiate in person."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then I'll bring the art."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "last_offer",
+   "number": 18,
+   "title": "Last Offer",
+   "case": "Glimmer's negotiating room",
+   "finale": "Untitled Bust",
+   "act": 5,
+   "background": "vienna",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    ""
+   ],
+   "fragment": 0,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "glimmer",
+     "text": "Everyone has a price, Young Rocco."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Mine is the truth. Pay up."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Short job. Definite pressure."
+    },
+    {
+     "speaker": "quill",
+     "text": "Every contact is watching you now."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Let them watch. I'm working."
+    }
+   ],
+   "outro": [
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "glimmer",
+       "text": "Walk away rich. Or walk away."
+      },
+      {
+       "speaker": "rocco",
+       "text": "I'll walk away with the bust."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "The device's origin is in Barnaby's work."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Then his showcase holds the answer."
+      }
+     ]
+    },
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Glimmer keeps one last private showcase."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Last is the right word."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "final_inventory",
+   "number": 19,
+   "title": "Final Inventory",
+   "case": "A private showcase",
+   "finale": "Study No. 0",
+   "act": 5,
+   "background": "florence",
+   "heists": [],
+   "difficulty": [
+    "",
+    "HARD",
+    "",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 0,
+   "crew": "nova",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "Every rule we know, all at once."
+    },
+    {
+     "speaker": "rocco",
+     "text": "Good. I've practiced."
+    },
+    {
+     "speaker": "tuck",
+     "text": "Almost the whole collection now."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Barnaby built the first version of our device."
+    },
+    {
+     "speaker": "quill",
+     "text": "One archive left. In Glimmer's own collection."
+    }
+   ],
+   "outro": [
+    {
+     "background": "florence",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Barnaby designed my device's heart."
+      },
+      {
+       "speaker": "rocco",
+       "text": "He planned for someone like us."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "Last chance. Bring me the archive."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Not tonight, Mr. Frost."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Glimmer's principal collection. The last fragment."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Whose museum is it, really?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "whose_museum",
+   "number": 20,
+   "title": "Whose Museum?",
+   "case": "Glimmer's principal collection",
+   "finale": "Night Atlas",
+   "act": 5,
+   "background": "vienna",
+   "heists": [],
+   "difficulty": [
+    "",
+    "",
+    "HARD",
+    "",
+    "SUPER HARD"
+   ],
+   "fragment": 5,
+   "crew": "",
+   "win_bubbles": [
+    {
+     "speaker": "sprocket",
+     "text": "The final queue. No surprises left."
+    },
+    {
+     "speaker": "rocco",
+     "text": "There are always surprises."
+    },
+    {
+     "speaker": "tuck",
+     "text": "I saved a wall for this."
+    },
+    {
+     "speaker": "quill",
+     "text": "Everyone is watching tonight."
+    },
+    {
+     "speaker": "sprocket",
+     "text": "Fragment five. The archive is complete."
+    }
+   ],
+   "outro": []
+  }
+ ],
+ "endings": {
+  "open_inventory": {
+   "title": "Open Inventory",
+   "line": "Publish everything, even what exposes you.",
+   "panels": [
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "rocco",
+       "text": "Publish all of it. Even me."
+      },
+      {
+       "speaker": "quill",
+       "text": "Every record, every name."
+      }
+     ]
+    },
+    {
+     "background": "paris",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Families are finding their histories."
+      },
+      {
+       "speaker": "rocco",
+       "text": "And people are judging mine."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "The truth is out. Now what?"
+      },
+      {
+       "speaker": "rocco",
+       "text": "Now the gallery stays open."
+      }
+     ]
+    }
+   ]
+  },
+  "custodian_network": {
+   "title": "Custodian Network",
+   "line": "Entrust the record to many careful hands.",
+   "panels": [
+    {
+     "background": "anatolia",
+     "bubbles": [
+      {
+       "speaker": "quill",
+       "text": "Three keys. Many keepers."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Nobody owns it alone."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "You gave away the power."
+      },
+      {
+       "speaker": "rocco",
+       "text": "I gave it to everyone."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "tuck",
+       "text": "Your gallery looks different now."
+      },
+      {
+       "speaker": "rocco",
+       "text": "It looks shared. I like it."
+      }
+     ]
+    }
+   ]
+  },
+  "final_bargain": {
+   "title": "Final Bargain",
+   "line": "Break Glimmer and Mr. Frost with a private deal.",
+   "panels": [
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "glimmer",
+       "text": "You'd trade the archive for my exit?"
+      },
+      {
+       "speaker": "rocco",
+       "text": "For your silence. Permanently."
+      }
+     ]
+    },
+    {
+     "background": "vienna",
+     "bubbles": [
+      {
+       "speaker": "frost",
+       "text": "Clever. Quiet. Not exactly honest."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Neither were you."
+      }
+     ]
+    },
+    {
+     "background": "museum_hall",
+     "bubbles": [
+      {
+       "speaker": "sprocket",
+       "text": "Atlas is gone. Nobody knows why."
+      },
+      {
+       "speaker": "rocco",
+       "text": "Some stories stay in the vault."
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "crew": [
+  {
+   "id": "bit",
+   "name": "Bit",
+   "bio": "A ladybug who never drops a pixel."
+  },
+  {
+   "id": "dash",
+   "name": "Dash",
+   "bio": "A dragonfly with very fast wings."
+  },
+  {
+   "id": "gizmo",
+   "name": "Gizmo",
+   "bio": "A beetle who fixes every drone."
+  },
+  {
+   "id": "hum",
+   "name": "Hum",
+   "bio": "A bee who hums while he lifts."
+  },
+  {
+   "id": "flicker",
+   "name": "Flicker",
+   "bio": "A firefly who lights dark depots."
+  },
+  {
+   "id": "pinch",
+   "name": "Pinch",
+   "bio": "A stag beetle with gentle claws."
+  },
+  {
+   "id": "skitter",
+   "name": "Skitter",
+   "bio": "A cricket who jumps queues."
+  },
+  {
+   "id": "velvet",
+   "name": "Velvet",
+   "bio": "A moth who moves in silence."
+  },
+  {
+   "id": "tock",
+   "name": "Tock",
+   "bio": "A weevil who keeps perfect time."
+  },
+  {
+   "id": "nova",
+   "name": "Nova",
+   "bio": "A jewel beetle who shines last."
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+  "stage_first_commission": {
+    "opening": {
+      "id": "stage_first_commission_opening",
+      "kind": "Opening",
+      "image": "res://assets/story/stage01_opening.png",
+      "bubbles": [
+        {"speaker": "sprocket", "text": "The client said this would be simple.", "bounds": [284, 20, 352, 118], "tail": [503, 176]},
+        {"speaker": "rocco", "text": "They always do.", "bounds": [18, 88, 250, 92], "tail": [220, 209]}
+      ]
+    },
+    "finale": {
+      "id": "stage_first_commission_finale",
+      "kind": "Finale",
+      "image": "res://assets/story/stage01_finale.png",
+      "bubbles": [
+        {"speaker": "rocco", "text": "Your device was the real target.", "bounds": [18, 10, 298, 116], "tail": [215, 154]},
+        {"speaker": "sprocket", "text": "Then why is Barnaby's mark here?", "bounds": [334, 100, 304, 136], "tail": [462, 268]}
+      ]
+    }
+  }
+}

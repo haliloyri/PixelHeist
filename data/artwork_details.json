@@ -1,0 +1,209 @@
+[
+  {
+    "artist": "art.sun_seal.artist",
+    "date": "art.sun_seal.date",
+    "museum": "art.sun_seal.museum",
+    "description": "art.sun_seal.description",
+    "facts": [
+      "art.sun_seal.fact_1",
+      "art.sun_seal.fact_2"
+    ],
+    "source": "",
+    "fiction": true,
+    "art_id": "sun_seal"
+  },
+  {
+    "artist": "art.sapphire_cup.artist",
+    "date": "art.sapphire_cup.date",
+    "museum": "art.sapphire_cup.museum",
+    "description": "art.sapphire_cup.description",
+    "facts": [
+      "art.sapphire_cup.fact_1",
+      "art.sapphire_cup.fact_2"
+    ],
+    "source": "",
+    "fiction": true,
+    "art_id": "sapphire_cup"
+  },
+  {
+    "artist": "art.girl_with_a_pearl_earring.artist",
+    "date": "art.girl_with_a_pearl_earring.date",
+    "museum": "art.girl_with_a_pearl_earring.museum",
+    "description": "art.girl_with_a_pearl_earring.description",
+    "facts": [
+      "art.girl_with_a_pearl_earring.fact_1",
+      "art.girl_with_a_pearl_earring.fact_2"
+    ],
+    "source": "https://www.mauritshuis.nl/en/our-collection/artworks/670-girl-with-a-pearl-earring",
+    "fiction": false,
+    "art_id": "girl_with_a_pearl_earring",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.starry_night.artist",
+    "date": "art.starry_night.date",
+    "museum": "art.starry_night.museum",
+    "description": "art.starry_night.description",
+    "facts": [
+      "art.starry_night.fact_1",
+      "art.starry_night.fact_2"
+    ],
+    "source": "https://www.moma.org/collection/works/79802",
+    "fiction": false,
+    "art_id": "starry_night",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.moon_gate_mask.artist",
+    "date": "art.moon_gate_mask.date",
+    "museum": "art.moon_gate_mask.museum",
+    "description": "art.moon_gate_mask.description",
+    "facts": [
+      "art.moon_gate_mask.fact_1",
+      "art.moon_gate_mask.fact_2"
+    ],
+    "source": "",
+    "fiction": true,
+    "art_id": "moon_gate_mask"
+  },
+  {
+    "artist": "art.mona_lisa.artist",
+    "date": "art.mona_lisa.date",
+    "museum": "art.mona_lisa.museum",
+    "description": "art.mona_lisa.description",
+    "facts": [
+      "art.mona_lisa.fact_1",
+      "art.mona_lisa.fact_2"
+    ],
+    "source": "https://collections.louvre.fr/ark%3A/53355/cl010062370",
+    "fiction": false,
+    "art_id": "mona_lisa",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.the_kiss.artist",
+    "date": "art.the_kiss.date",
+    "museum": "art.the_kiss.museum",
+    "description": "art.the_kiss.description",
+    "facts": [
+      "art.the_kiss.fact_1",
+      "art.the_kiss.fact_2"
+    ],
+    "source": "https://sammlung.belvedere.at/objects/6678/der-kuss-liebespaar",
+    "fiction": false,
+    "art_id": "the_kiss",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.the_scream.artist",
+    "date": "art.the_scream.date",
+    "museum": "art.the_scream.museum",
+    "description": "art.the_scream.description",
+    "facts": [
+      "art.the_scream.fact_1",
+      "art.the_scream.fact_2"
+    ],
+    "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00939",
+    "fiction": false,
+    "art_id": "the_scream",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.birth_of_venus.artist",
+    "date": "art.birth_of_venus.date",
+    "museum": "art.birth_of_venus.museum",
+    "description": "art.birth_of_venus.description",
+    "facts": [
+      "art.birth_of_venus.fact_1",
+      "art.birth_of_venus.fact_2"
+    ],
+    "source": "https://www.uffizi.it/en/artworks/birth-of-venus",
+    "fiction": false,
+    "art_id": "birth_of_venus",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.water_lilies.artist",
+    "date": "art.water_lilies.date",
+    "museum": "art.water_lilies.museum",
+    "description": "art.water_lilies.description",
+    "facts": [
+      "art.water_lilies.fact_1",
+      "art.water_lilies.fact_2"
+    ],
+    "source": "https://publications.artic.edu/node/135621",
+    "fiction": false,
+    "art_id": "water_lilies",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.the_gleaners.artist",
+    "date": "art.the_gleaners.date",
+    "description": "art.the_gleaners.description",
+    "facts": [
+      "art.the_gleaners.fact_1",
+      "art.the_gleaners.fact_2"
+    ],
+    "source": "https://www.musee-orsay.fr/en/artworks/des-glaneuses-342",
+    "museum": "art.the_gleaners.museum",
+    "fiction": false,
+    "art_id": "the_gleaners",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.the_magpie.artist",
+    "date": "art.the_magpie.date",
+    "description": "art.the_magpie.description",
+    "facts": [
+      "art.the_magpie.fact_1",
+      "art.the_magpie.fact_2"
+    ],
+    "source": "https://www.musee-orsay.fr/en/artworks/la-pie-715",
+    "museum": "art.the_magpie.museum",
+    "fiction": false,
+    "art_id": "the_magpie",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.the_star.artist",
+    "date": "art.the_star.date",
+    "description": "art.the_star.description",
+    "facts": [
+      "art.the_star.fact_1",
+      "art.the_star.fact_2"
+    ],
+    "source": "https://www.musee-orsay.fr/en/artworks/ballet-2084",
+    "museum": "art.the_star.museum",
+    "fiction": false,
+    "art_id": "the_star",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.dance_at_le_moulin_de_la_galette.artist",
+    "date": "art.dance_at_le_moulin_de_la_galette.date",
+    "description": "art.dance_at_le_moulin_de_la_galette.description",
+    "facts": [
+      "art.dance_at_le_moulin_de_la_galette.fact_1",
+      "art.dance_at_le_moulin_de_la_galette.fact_2"
+    ],
+    "source": "https://www.musee-orsay.fr/en/artworks/bal-du-moulin-de-la-galette-497",
+    "museum": "art.dance_at_le_moulin_de_la_galette.museum",
+    "fiction": false,
+    "art_id": "dance_at_le_moulin_de_la_galette",
+    "source_checked": "2026-09-20"
+  },
+  {
+    "artist": "art.apples_and_oranges.artist",
+    "date": "art.apples_and_oranges.date",
+    "description": "art.apples_and_oranges.description",
+    "facts": [
+      "art.apples_and_oranges.fact_1",
+      "art.apples_and_oranges.fact_2"
+    ],
+    "source": "https://www.musee-orsay.fr/en/artworks/pommes-et-oranges-1470",
+    "museum": "art.apples_and_oranges.museum",
+    "fiction": false,
+    "art_id": "apples_and_oranges",
+    "source_checked": "2026-09-20"
+  }
+]

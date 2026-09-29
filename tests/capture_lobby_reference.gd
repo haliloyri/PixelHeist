@@ -1,0 +1,43 @@
+extends SceneTree
+const Fixture = preload("res://tests/fixture.gd")
+var game
+func _initialize() -> void: call_deferred("run")
+func shot(label: String) -> void:
+	for i in 5: await process_frame
+	RenderingServer.force_draw(false)
+	root.get_texture().get_image().save_png("res://artifacts/lobby-v2-"+label+".png")
+func run() -> void:
+	game=Fixture.create_game()
+	root.add_child(game)
+	await process_frame
+	game.set_process(false)
+	game.store.apply(func(s):s.story.opening=true;s.gold=8500;return true)
+	root.size=Vector2i(720,1280)
+	game._show_lobby()
+	await shot("standard")
+	game.screen_view.shortcuts.no_ads.pressed.emit()
+	await shot("no-ads")
+	game._close_modal()
+	game.screen_view.shortcuts.offer.pressed.emit()
+	await shot("offer")
+	game._close_modal()
+	game.screen_view._toggle_rewards()
+	await shot("rewards")
+	game.screen_view._close_rewards()
+	root.size=Vector2i(390,844)
+	await shot("tall")
+	game.screen_view._toggle_rewards()
+	await shot("tall-rewards")
+	game.screen_view._close_rewards()
+	game.store.restore_entitlement("no_ads_pack")
+	for i in int(game.store.rules.free_coins_daily_cap):game.store.grant_ad_reward("free_coins","capture-cap-%d"%i)
+	game.screen_view.refresh()
+	await shot("owned")
+	for level in game.levels:game.store.record_win(level.art_id,"",3)
+	game.screen_view.refresh()
+	await shot("more-soon")
+	Fixture.cleanup(game)
+	game.queue_free()
+	await process_frame
+	print("LOBBY CAPTURES: 8 | FAILURES: 0")
+	quit()

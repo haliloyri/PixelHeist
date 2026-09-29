@@ -1,0 +1,4629 @@
+{
+  "ui.museum": {
+    "text": "Museum",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.home": {
+    "text": "Home",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.settings": {
+    "text": "Settings",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.help": {
+    "text": "How to play",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.pause": {
+    "text": "Pause",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.undo": {
+    "text": "Undo",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.close": {
+    "text": "Close",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.continue": {
+    "text": "Continue",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.start": {
+    "text": "Start the heist →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.continue_heist": {
+    "text": "Continue heist",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.selected": {
+    "text": "Go to selected artwork →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.restart": {
+    "text": "Restart heist",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.back_home": {
+    "text": "Return home",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.understood": {
+    "text": "Got it",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.inspect": {
+    "text": "Inspect artwork",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.replay": {
+    "text": "Play again",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.play_art": {
+    "text": "Play this artwork",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.locked": {
+    "text": "Previous artwork locked",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.level": {
+    "text": "Level {level}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.floor": {
+    "text": "Floor {floor}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.museum_floor": {
+    "text": "Museum / Floor {floor}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.progress": {
+    "text": "{done} / {total}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.chapter_art": {
+    "text": "Level {level} / Artwork {art} of 5",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ui.location_stage": {
+    "text": "{city} · {country} / Level {level} · {art}/5",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "home.tagline": {
+    "text": "Three levels. Fifteen priceless works.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "home.subhead": {
+    "text": "One thief. One secret.\nA few gaps on the walls.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "home.footer": {
+    "text": "Pick the colors. Take the art.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "home.preview_chapter": {
+    "text": "01 / Empty frames",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "home.preview_location": {
+    "text": "Glimmer Gallery. The night has just begun.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "queue.deploy": {
+    "text": "Send this carrier to an empty dock.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "queue.decoy": {
+    "text": "This color is absent from the artwork. It leaves when the bar expires.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "queue.full": {
+    "text": "Wait for a carrier to finish and free its dock.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "boost.empty": {
+    "text": "3× time has run out. Tap to buy more with credits.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "boost.help": {
+    "text": "Time counts down at 3×; it pauses at 1× and while paused.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "audio.toggle": {
+    "text": "Toggle ASMR sounds",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "save.title": {
+    "text": "Saved progress is protected.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "save.eyebrow": {
+    "text": "Save unavailable",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "save.body": {
+    "text": "Progress could not be read or saved. Existing files have been kept. Retry when storage is available.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "save.retry": {
+    "text": "Retry",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "demo.title": {
+    "text": "Your story progress is preserved.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "demo.eyebrow": {
+    "text": "Demo build",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "demo.body": {
+    "text": "The story campaign is not available in this build. You can open the separate demo.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "demo.open": {
+    "text": "Open demo",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "replace.title": {
+    "text": "Start a different heist?",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "replace.eyebrow": {
+    "text": "Current heist saved",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "replace.body": {
+    "text": "Starting this target replaces the unfinished heist. Collected works and spent boost time stay unchanged.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "replace.resume": {
+    "text": "Continue saved heist",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "replace.start": {
+    "text": "Start selected target",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "briefing.start": {
+    "text": "Let's get to work →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "help.title": {
+    "text": "One color. One move.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "help.eyebrow": {
+    "text": "Field guide",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "help.body": {
+    "text": "01  Any carrier can use an empty dock. Its number is the payload capacity.\n\n02  Scouts collect from the outside in. Sealed colors wait until a route opens.\n\n03  Full carriers depart. Leave room for the color that opens the route.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "help.footer": {
+    "text": "Only colors absent from the artwork have timers. “?” packets reveal at the front. Z: undo · 1–5: select",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.title": {
+    "text": "The night can wait.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.paused": {
+    "text": "Paused",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.sound_on": {
+    "text": "All sounds: on",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.sound_off": {
+    "text": "All sounds: off",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.music_on": {
+    "text": "Music: on",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.music_off": {
+    "text": "Music: off",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.motion_normal": {
+    "text": "Motion: normal",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.motion_reduced": {
+    "text": "Motion: reduced",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.language": {
+    "text": "Language: {language}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.language_title": {
+    "text": "Choose a language",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.system": {
+    "text": "Device language",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "settings.credits": {
+    "text": "Rotor audio: Kenney · Music: yd / Insistent · CC0",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "blocked.title": {
+    "text": "Wrong color. Tight space.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "blocked.eyebrow": {
+    "text": "Transfer docks full",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "blocked.body": {
+    "text": "Waiting carriers cannot reach their colors. Undo the last choice to make room for a color that opens a route.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "blocked.hint": {
+    "text": "Try another carrier. The night is still yours.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "blocked.undo": {
+    "text": "Undo last choice",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ending.title": {
+    "text": "The collection is ours.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ending.eyebrow": {
+    "text": "Demo complete / {count} artworks",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ending.body": {
+    "text": "Rocco: “The delivery address has changed.”\n\nThe Curator's requested works are safe. So is the device. The demo ends here; the larger mystery is still ahead.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ending.next": {
+    "text": "The next case\nWhose collection is this?",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "ending.collection": {
+    "text": "View collection →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "error.title": {
+    "text": "Transfer incomplete.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "error.eyebrow": {
+    "text": "Puzzle data error",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "error.body": {
+    "text": "Pixels remain, but no carrier is available. This is a content error. Restart the operation.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.level": {
+    "text": "Level {level} complete",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.title": {
+    "text": "Artwork secured",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.body": {
+    "text": "The drones have completed delivery. The artwork is in its museum frame.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.next": {
+    "text": "Next artwork →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.all": {
+    "text": "Collection complete →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.choose": {
+    "text": "Choose artwork →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.next_level": {
+    "text": "Go to Level {level} →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.gallery": {
+    "text": "View in museum",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "inspect.credit": {
+    "text": "{artist} · {date}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "inspect.source": {
+    "text": "Museum source ↗",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "inspect.original": {
+    "text": "A Pixel Heist original",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.choose": {
+    "text": "Choose your next artwork",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.empty_hint": {
+    "text": "Choose a heist for this frame",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.owned": {
+    "text": "In the collection •",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.new": {
+    "text": "New heist ↗",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.name": {
+    "text": "Night Museum",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.count": {
+    "text": "{count} / {total} artworks collected",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.lifts": {
+    "text": "← Elevator                         Elevator →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.controls": {
+    "text": "Move with A / D or ← →\nUse an elevator to change floors",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.caption": {
+    "text": "One frame. A new story.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.up": {
+    "text": "Up to Floor {floor} ↑",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.down": {
+    "text": "Down to Floor {floor} ↓",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.enter_lift": {
+    "text": "Enter elevator",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.choose_title": {
+    "text": "Choose the next heist.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.choose_body": {
+    "text": "The acquired artwork will occupy this frame.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.frame": {
+    "text": "Museum / Floor {floor} · Frame {frame}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.steal": {
+    "text": "Start this heist →",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.all": {
+    "text": "Every artwork is in your collection.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.inventory": {
+    "text": "Safehouse / Inventory",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.preview_count": {
+    "text": "5 / 5 artworks secured",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.safe": {
+    "text": "In the safehouse",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "gallery.footer": {
+    "text": "Every empty frame holds another secret.",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "success.pixels": {
+    "text": "{count} pixel secured",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text.",
+    "plural": "{count} pixels secured"
+  },
+  "success.moves": {
+    "text": "{count} choice",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text.",
+    "plural": "{count} choices"
+  },
+  "speaker.rocco": {
+    "text": "Rocco “Pixel”",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.sprocket": {
+    "text": "Sprocket",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.quill": {
+    "text": "Quill",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.curator": {
+    "text": "The Curator",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.frost": {
+    "text": "Mr. Frost",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.glimmer": {
+    "text": "Baron Glimmer",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.tuck": {
+    "text": "Tuck",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "speaker.barnaby": {
+    "text": "Barnaby Bramble",
+    "context": "speaker",
+    "note": "Keep named placeholders and proper names. Player-facing speaker text."
+  },
+  "art.sun_seal.title": {
+    "text": "Sun Seal",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.mission": {
+    "text": "Quiet Entry",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sun_seal.room": {
+    "text": "Preparation room",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sun_seal.intro": {
+    "text": "Choose a carrier. Scouts will bring matching pixels to the safehouse.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sun_seal.outro": {
+    "text": "A small beginning. A big night.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sun_seal.clue": {
+    "text": "The first artwork is safe. Now for the real job.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sun_seal.description": {
+    "text": "The Sun Seal was designed for this game's story. It is not a real archaeological find.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.fact_1": {
+    "text": "Its circular sun shape teaches you to read color layers from the outside in.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.fact_2": {
+    "text": "Its shipping mark suggests a question, but the authored inspection finds no archive trace.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.date": {
+    "text": "Original design",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.museum": {
+    "text": "Fictional artwork · Inspired by Anatolia",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sun_seal.city": {
+    "text": "Ankara",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sun_seal.country": {
+    "text": "Türkiye",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sun_seal.context": {
+    "text": "An Anatolian-inspired mission location for the fictional Sun Seal.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sapphire_cup.title": {
+    "text": "Sapphire Cup",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.mission": {
+    "text": "Behind the Glass",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sapphire_cup.room": {
+    "text": "Restoration room",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sapphire_cup.intro": {
+    "text": "Sealed colors wait. Open a route by collecting the outer pixels first.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sapphire_cup.outro": {
+    "text": "Good. I have already entered it in my records.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sapphire_cup.clue": {
+    "text": "The client recognized it before delivery. How closely are we being watched?",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.sapphire_cup.description": {
+    "text": "The Sapphire Cup is an original game object inspired by blue-and-white ceramics. It is not a copy of a particular historical cup.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.fact_1": {
+    "text": "Its curved silhouette was simplified into a small, readable pixel palette.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.fact_2": {
+    "text": "Its blue glaze gives it a collection connection; inspection finds no hidden archive record.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.date": {
+    "text": "Original design",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.museum": {
+    "text": "Fictional artwork · Inspired by İznik",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.city": {
+    "text": "İznik",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sapphire_cup.country": {
+    "text": "Türkiye",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sapphire_cup.context": {
+    "text": "A fictional mission location inspired by İznik ceramics.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.girl_with_a_pearl_earring.title": {
+    "text": "Girl with a Pearl Earring",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.mission": {
+    "text": "The Pearl",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.girl_with_a_pearl_earring.room": {
+    "text": "West gallery",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.girl_with_a_pearl_earring.intro": {
+    "text": "Three docks. Sending every carrier at once might not be the best idea.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.girl_with_a_pearl_earring.outro": {
+    "text": "Leave the back of the frame alone. Complete the order.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.girl_with_a_pearl_earring.clue": {
+    "text": "A second inventory stamp on the frame: V–017. It is not the museum's mark.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.girl_with_a_pearl_earring.description": {
+    "text": "Girl with a Pearl Earring is an oil-on-canvas tronie: a study of an imagined character and expression, rather than a commissioned portrait of a named person.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.fact_1": {
+    "text": "The unusual head covering emphasizes the character study rather than an everyday portrait.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.fact_2": {
+    "text": "Highlights suggest the pearl more than a detailed outline does. The game uses a simplified pixel interpretation.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.date": {
+    "text": "c. 1665",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.museum": {
+    "text": "Mauritshuis · The Hague, Netherlands",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.city": {
+    "text": "The Hague",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.girl_with_a_pearl_earring.country": {
+    "text": "Netherlands",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.girl_with_a_pearl_earring.context": {
+    "text": "The city of the Mauritshuis, which houses Girl with a Pearl Earring.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.starry_night.title": {
+    "text": "The Starry Night",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.mission": {
+    "text": "The Stars",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.starry_night.room": {
+    "text": "North gallery",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.starry_night.intro": {
+    "text": "Look farther down the queue. One empty dock can save the whole plan.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.starry_night.outro": {
+    "text": "The same stamp. Rocco, our device uses that numbering too.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.starry_night.clue": {
+    "text": "V–018. The artworks and our device are marked as parts of the same collection.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.starry_night.description": {
+    "text": "The Starry Night combines the landscape seen at Saint-Rémy with the artist's imagination. It is painted in oil on canvas.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.fact_1": {
+    "text": "The swirling sky contrasts with the village's calmer, more regular shapes.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.fact_2": {
+    "text": "The Provence backdrop refers to where the work was painted. The painting is now at MoMA in New York.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.date": {
+    "text": "June 1889",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.museum": {
+    "text": "The Museum of Modern Art · New York, USA",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.city": {
+    "text": "Saint-Rémy",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.starry_night.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.starry_night.context": {
+    "text": "Saint-Rémy-de-Provence is where the painting was made, not its present museum location.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.moon_gate_mask.title": {
+    "text": "Moon Gate Mask",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.mission": {
+    "text": "The Last Piece",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.moon_gate_mask.room": {
+    "text": "Private collection",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.moon_gate_mask.intro": {
+    "text": "Send the last piece, Pixel. Let's finish our agreement.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.moon_gate_mask.outro": {
+    "text": "Final delivery: transfer core. Operator not required… That's our device!",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.moon_gate_mask.clue": {
+    "text": "Rocco: “The delivery address has changed.” We keep the works. This time, we ruin their plan.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.moon_gate_mask.description": {
+    "text": "The Moon Gate Mask is an original game artwork built around gold and deep blue. It is not presented as a real pharaoh's mask or museum object.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.fact_1": {
+    "text": "A symmetrical face and dark eyes make a silhouette that reads at a small scale.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.fact_2": {
+    "text": "The Level 1 finale marks Rocco's decision to redirect the collection's delivery.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.date": {
+    "text": "Original design",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.museum": {
+    "text": "Fictional artwork · Inspired by Egypt",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.city": {
+    "text": "Luxor",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.moon_gate_mask.country": {
+    "text": "Egypt",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.moon_gate_mask.context": {
+    "text": "An Egyptian-inspired fictional mission location; not a claim of real provenance.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.mona_lisa.title": {
+    "text": "Mona Lisa",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.mission": {
+    "text": "A Quiet Smile",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.mona_lisa.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.mona_lisa.intro": {
+    "text": "Only colors absent from the painting have a bar. When it expires, that color leaves the queue.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.mona_lisa.outro": {
+    "text": "She still keeps the secret of that smile.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.mona_lisa.clue": {
+    "text": "Not every color in the queue is useful.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.mona_lisa.description": {
+    "text": "Mona Lisa portrays Lisa Gherardini, wife of the Florentine merchant Francesco del Giocondo. It is painted on a wooden panel.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.fact_1": {
+    "text": "Leonardo began the painting in Florence and continued working on it into his final years in France.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.fact_2": {
+    "text": "It was not finished in one sitting. Years of work helped shape its soft transitions and expression.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.date": {
+    "text": "c. 1503–1519",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.museum": {
+    "text": "Musée du Louvre · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.mona_lisa.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.mona_lisa.context": {
+    "text": "The city of the Louvre, where Mona Lisa is displayed.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_kiss.title": {
+    "text": "The Kiss",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.mission": {
+    "text": "Golden Touch",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_kiss.room": {
+    "text": "Vienna",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_kiss.intro": {
+    "text": "Those gold shades are close. Check the edge of the painting before choosing.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_kiss.outro": {
+    "text": "The gold leaf is safely in the vault.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_kiss.clue": {
+    "text": "This gold is not as simple as it looks.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_kiss.description": {
+    "text": "The Kiss shows two figures embracing amid golden surfaces. It is one of Klimt's best-known works.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.fact_1": {
+    "text": "The shine is not just yellow paint: the work uses gold, silver and platinum leaf.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.fact_2": {
+    "text": "It was exhibited as “The Lovers” in 1908; the title “The Kiss” appeared in the 1909 catalogue.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.date": {
+    "text": "c. 1907–1909",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.museum": {
+    "text": "Belvedere · Vienna, Austria",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.city": {
+    "text": "Vienna",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_kiss.country": {
+    "text": "Austria",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_kiss.context": {
+    "text": "The city of the Belvedere, where The Kiss is displayed.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_scream.title": {
+    "text": "The Scream",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.mission": {
+    "text": "A Silent Scream",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_scream.room": {
+    "text": "Oslo",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_scream.intro": {
+    "text": "A color absent from the artwork cannot be selected. The next packet opens when its bar expires.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_scream.outro": {
+    "text": "Tonight, the alarm stayed silent.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_scream.clue": {
+    "text": "Even the curves of the landscape seem uneasy.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_scream.description": {
+    "text": "This version of The Scream uses tempera and oil pastel on cardboard. The background shows the Oslo Fjord from Ekeberg.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.fact_1": {
+    "text": "Munch revisited the composition in paintings, pastels and prints. There is more than one Scream.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.fact_2": {
+    "text": "Infrared research in 2020 confirmed that the small inscription at the upper left is in Munch's handwriting.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.date": {
+    "text": "1893",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.museum": {
+    "text": "Nasjonalmuseet · Oslo, Norway",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.city": {
+    "text": "Oslo",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_scream.country": {
+    "text": "Norway",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_scream.context": {
+    "text": "The Nasjonalmuseet holds the 1893 version of The Scream.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.birth_of_venus.title": {
+    "text": "The Birth of Venus",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.mission": {
+    "text": "From the Sea",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.birth_of_venus.room": {
+    "text": "Florence",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.birth_of_venus.intro": {
+    "text": "Compare the pale tones. The painting's colors wait for you; they never expire.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.birth_of_venus.outro": {
+    "text": "Safely ashore.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.birth_of_venus.clue": {
+    "text": "Less a birth than an arrival.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.birth_of_venus.description": {
+    "text": "The Birth of Venus is a Renaissance painting in tempera on canvas. The goddess at its center stands on a seashell.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.fact_1": {
+    "text": "Despite the title, the scene depicts Venus arriving on Cyprus with the help of the winds, rather than her birth.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.fact_2": {
+    "text": "Gold highlights the hair and other details. The pose draws on classical sculpture.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.date": {
+    "text": "c. 1485",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.museum": {
+    "text": "Gallerie degli Uffizi · Florence, Italy",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.city": {
+    "text": "Florence",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.birth_of_venus.country": {
+    "text": "Italy",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.birth_of_venus.context": {
+    "text": "The city of the Uffizi, where The Birth of Venus is displayed.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.water_lilies.title": {
+    "text": "Water Lilies",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.mission": {
+    "text": "The Water Remembers",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.water_lilies.room": {
+    "text": "Giverny",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.water_lilies.intro": {
+    "text": "The last painting. Don't let the reflections fool your eye for color.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.water_lilies.outro": {
+    "text": "The gallery is full of light now.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.water_lilies.clue": {
+    "text": "The sky is out of view, but its reflection fills the painting.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.water_lilies.description": {
+    "text": "Water Lilies is one of Monet's paintings inspired by his water garden at Giverny. This pixel interpretation refers to the 1906 oil painting.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.fact_1": {
+    "text": "It may look like a fleeting impression, but technical examination shows extensive reworking.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.fact_2": {
+    "text": "The Giverny backdrop represents the garden. This particular painting is in Chicago; Water Lilies names many works by Monet.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.date": {
+    "text": "1906",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.museum": {
+    "text": "Art Institute of Chicago · Chicago, USA",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.city": {
+    "text": "Giverny",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.water_lilies.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.water_lilies.context": {
+    "text": "The location of Monet's garden. The selected 1906 painting is now in Chicago.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_gleaners.title": {
+    "text": "The Gleaners",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.mission": {
+    "text": "The Lower Threshold",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_gleaners.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_gleaners.intro": {
+    "text": "Enter from below. Some carriers hold sealed inner colors. Leave a dock for the color that opens the way.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_gleaners.outro": {
+    "text": "The first seal is broken.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_gleaners.clue": {
+    "text": "Three edges are sealed. The only entrance is below.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_gleaners.description": {
+    "text": "An oil painting of three women gathering ears of grain left after the harvest. The game uses a simplified pixel interpretation.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.fact_1": {
+    "text": "The three foreground figures seem to show bending, gathering and rising in sequence.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.fact_2": {
+    "text": "The few ears of grain in the foreground contrast with the plentiful distant harvest.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.date": {
+    "text": "1857",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.museum": {
+    "text": "Musée d’Orsay · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_gleaners.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_gleaners.context": {
+    "text": "The city of the Musée d’Orsay, which houses The Gleaners.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_magpie.title": {
+    "text": "The Magpie",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.mission": {
+    "text": "The Silence of Snow",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_magpie.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_magpie.intro": {
+    "text": "We move in from beneath the snow. Being near a side edge is no shortcut now.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_magpie.outro": {
+    "text": "Quiet wings. A quiet escape.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_magpie.clue": {
+    "text": "The scouts use the lower passage on their return too.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_magpie.description": {
+    "text": "A snowy rural landscape with a small magpie on a fence. The game interprets the snow, fence and bird with six colors.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.fact_1": {
+    "text": "The work is oil on canvas; the museum dates it to 1868–1869.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.fact_2": {
+    "text": "The bird that gives this broad snow scene its title occupies only a small part of the composition.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.date": {
+    "text": "1868–1869",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.museum": {
+    "text": "Musée d’Orsay · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_magpie.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_magpie.context": {
+    "text": "The city of the Musée d’Orsay, which houses The Magpie.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_star.title": {
+    "text": "The Star",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.mission": {
+    "text": "Between the Curtains",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_star.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_star.intro": {
+    "text": "We can only reach the stage from below. Clear the lower colors first.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_star.outro": {
+    "text": "That final bow was for us.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_star.clue": {
+    "text": "Empty spaces open new routes upward.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.the_star.description": {
+    "text": "The Star shows a ballerina dancing in the stage lights. The game image is a small pixel interpretation of the work.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.fact_1": {
+    "text": "Orsay records the work as “Ballet, dit aussi L’Étoile”, dated around 1876.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.fact_2": {
+    "text": "Degas's opera works explore rehearsals and backstage life as well as the stage.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.date": {
+    "text": "c. 1876",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.museum": {
+    "text": "Musée d’Orsay · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_star.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.the_star.context": {
+    "text": "The city of the Musée d’Orsay, which houses The Star.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.title": {
+    "text": "Dance at Le Moulin de la Galette",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.mission": {
+    "text": "The Last Dance",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.dance_at_le_moulin_de_la_galette.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.dance_at_le_moulin_de_la_galette.intro": {
+    "text": "The crowd hides the colors. A question-mark packet reveals when it reaches the front.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.dance_at_le_moulin_de_la_galette.outro": {
+    "text": "The music goes on. The painting is ours.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.dance_at_le_moulin_de_la_galette.clue": {
+    "text": "Even if the upper edge looks open, the seal blocks passage.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.dance_at_le_moulin_de_la_galette.description": {
+    "text": "An oil painting of light and crowds in an open-air dance garden in Montmartre. The game renders the crowd as small clusters of color.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.fact_1": {
+    "text": "Shown at the 1877 Impressionist exhibition, the painting includes some of Renoir's friends in the crowd.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.fact_2": {
+    "text": "The painting brings together natural and artificial light across a moving crowd.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.date": {
+    "text": "1876",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.museum": {
+    "text": "Musée d’Orsay · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.context": {
+    "text": "The city of the Musée d’Orsay, which houses Dance at Le Moulin de la Galette.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.apples_and_oranges.title": {
+    "text": "Apples and Oranges",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.mission": {
+    "text": "The Fruit Crate",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.apples_and_oranges.room": {
+    "text": "Paris",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.apples_and_oranges.intro": {
+    "text": "The last work of this level. Open the way from the bottom to the final pixel.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.apples_and_oranges.outro": {
+    "text": "Five more artworks for our museum.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.apples_and_oranges.clue": {
+    "text": "A narrow entrance, the right color, and patience.",
+    "context": "story",
+    "note": "Keep named placeholders and proper names. Fictional demo dialogue; no campaign reward."
+  },
+  "art.apples_and_oranges.description": {
+    "text": "A still life of fruit, white cloth and vessels. In the pixel interpretation, orange and red fruit stand out against the pale cloth.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.fact_1": {
+    "text": "The vessels and table do not share exactly the same viewpoint; Cézanne does not follow a single perspective.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.fact_2": {
+    "text": "The cloth is not painted in white alone: it also carries reflections of the surrounding colors.",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.date": {
+    "text": "c. 1899",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.museum": {
+    "text": "Musée d’Orsay · Paris, France",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.city": {
+    "text": "Paris",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.apples_and_oranges.country": {
+    "text": "France",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.apples_and_oranges.context": {
+    "text": "The city of the Musée d’Orsay, which houses Apples and Oranges.",
+    "context": "place",
+    "note": "Keep named placeholders and proper names. Player-facing place text."
+  },
+  "art.sun_seal.artist": {
+    "text": "Pixel Heist studio",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.sapphire_cup.artist": {
+    "text": "Pixel Heist studio",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.girl_with_a_pearl_earring.artist": {
+    "text": "Johannes Vermeer",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.starry_night.artist": {
+    "text": "Vincent van Gogh",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.moon_gate_mask.artist": {
+    "text": "Pixel Heist studio",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.mona_lisa.artist": {
+    "text": "Leonardo da Vinci",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_kiss.artist": {
+    "text": "Gustav Klimt",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_scream.artist": {
+    "text": "Edvard Munch",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.birth_of_venus.artist": {
+    "text": "Sandro Botticelli",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.water_lilies.artist": {
+    "text": "Claude Monet",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_gleaners.artist": {
+    "text": "Jean-François Millet",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_magpie.artist": {
+    "text": "Claude Monet",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.the_star.artist": {
+    "text": "Edgar Degas",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.dance_at_le_moulin_de_la_galette.artist": {
+    "text": "Auguste Renoir",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "art.apples_and_oranges.artist": {
+    "text": "Paul Cézanne",
+    "context": "artwork",
+    "note": "Keep named placeholders and proper names. Player-facing artwork text."
+  },
+  "lab.eyebrow": {
+    "text": "The night is yours",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.tagline": {
+    "text": "A little mischief.\nA museum of your own.",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.collection": {
+    "text": "Your collection, your story.",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.return": {
+    "text": "Return to museum →",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.dossier": {
+    "text": "A closer look",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.five": {
+    "text": "Five frames. Endless possibilities.",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "lab.hero": {
+    "text": "Make room for something remarkable.",
+    "context": "",
+    "note": "Visual direction prototype. No ownership, economic or campaign effect."
+  },
+  "campaign.jobs": {
+    "text": "Operations desk",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.open_story": {
+    "text": "Story cases",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.demo": {
+    "text": "Open demo · all 15 works",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.act": {
+    "text": "Act {number}",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.case": {
+    "text": "Level {number}",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.first_commission": {
+    "text": "First Commission",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.hook": {
+    "text": "Seven works on the list. Why is one name missing?",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.progress": {
+    "text": "{count} / 4 choices completed",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.finale_hidden": {
+    "text": "Finale: identity unknown",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.finale_ready": {
+    "text": "Four choices made. The final target is revealed.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.locked": {
+    "text": "Complete the previous finale to open this case.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.not_authored": {
+    "text": "Next case unlocked. This development build currently contains the first case.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.recommendations": {
+    "text": "Choose your next target",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.other": {
+    "text": "Other targets · free",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.recommended": {
+    "text": "Back to recommendations",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.all": {
+    "text": "All available targets",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.dossier": {
+    "text": "Open dossier",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.back": {
+    "text": "Back",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.start": {
+    "text": "Start this heist",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.offer": {
+    "text": "Expected offer if sold: {min}–{max} credits",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.fictional": {
+    "text": "Fictional credit estimate. Keeping the work does not pay this amount.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.recognition": {
+    "text": "Public recognition: {value} / 5",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.research_none": {
+    "text": "Research: no verified link",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.research_possible": {
+    "text": "Research: possible side link",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.research_strong": {
+    "text": "Research: strong side-record link",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.collection_potential": {
+    "text": "Could start “{theme}”. No matching originals are displayed here yet.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.collection_extend": {
+    "text": "Keep to join {count} displayed work in “{theme}”.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.collection_complete": {
+    "text": "Keep to complete a three-work “{theme}” exhibition.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.collection_displayed": {
+    "text": "This original is already displayed here; it adds no second exhibit.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.departed": {
+    "text": "The original left your collection. Replaying cannot recreate it or pay another sale.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.owned": {
+    "text": "Already acquired; the story job creates no duplicate original.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.cost_money": {
+    "text": "Trade-off: {other} has a clearly higher sale range.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.cost_fame": {
+    "text": "Trade-off: {other} is more widely recognized.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.cost_research": {
+    "text": "Trade-off: {other} has the stronger research lead.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.cost_collection": {
+    "text": "Trade-off: {other} fits this physical exhibition more closely.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.cost_honest": {
+    "text": "No clear advantage across the remaining offers. Compare the themes and keep-or-sell choice.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.keep_cost": {
+    "text": "Keeping an original for an exhibition means giving up its sale proceeds.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.honest": {
+    "text": "These targets have overlapping strengths. Compare their themes and keep-or-sell choices.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.frame": {
+    "text": "Choosing for Floor {floor}, Frame {frame}",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.holder": {
+    "text": "Fictional holder: Baron Glimmer · sample collection",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.facts": {
+    "text": "Read artwork facts",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.difficulty": {
+    "text": "Planning: {difficulty} · 3 shared docks · entry on all sides",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.gentle": {
+    "text": "gentle",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.standard": {
+    "text": "standard",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.deferred": {
+    "text": "Deferred until after the main story: {works}",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.case_complete": {
+    "text": "First case complete",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.first_briefing": {
+    "text": "Choose a front carrier. Any empty dock is shared. A sealed real color can wait safely; undo and restart are free.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.beat_1": {
+    "text": "Sprocket: “The six choices are yours. The client kept one name back.”",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.beat_2": {
+    "text": "Rocco: “These labels were replaced recently. That is a question, not evidence.”",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.beat_3": {
+    "text": "Sprocket: “The delivery list has an extra line. I am checking what it covers.”",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.beat_4": {
+    "text": "The client names the Moon Gate Mask as the last work of this commission.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.finale_result": {
+    "text": "The extra line names the transfer device. Rocco redirects the delivery to the Night Museum.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.benefit_money": {
+    "text": "Opportunity: specialist buyer demand",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.benefit_fame": {
+    "text": "Opportunity: public recognition",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.benefit_research": {
+    "text": "Opportunity: a fixed side record",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.benefit_collection": {
+    "text": "Opportunity: a personal exhibition",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.category_object": {
+    "text": "Object",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.category_painting": {
+    "text": "Painting",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.category_record": {
+    "text": "Record",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.night": {
+    "text": "Night and Light",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.water": {
+    "text": "Waterlines",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.gold": {
+    "text": "Golden Details",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.travel": {
+    "text": "Journeys",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.faces": {
+    "text": "Faces and Glances",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.workshop": {
+    "text": "Workshop Memory",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "theme.ceramics": {
+    "text": "Shaped by Hand",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.sun_seal.research": {
+    "text": "A replaced mounting label may help compare shipments; nothing has been verified.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.sapphire_cup.research": {
+    "text": "No verified archive link. Its glaze and shape can anchor a water or ceramics display.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.girl_with_a_pearl_earring.research": {
+    "text": "No verified archive link. Its familiar gaze offers visibility, not a promised clue.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.starry_night.research": {
+    "text": "No verified archive link. A recognizable night scene can join a light or water exhibition.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.ivory_travel_clock.research": {
+    "text": "A specialist buyer wants this fictional mechanism. No verified research connection.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.workshop_swatches.research": {
+    "text": "The swatches carry a fixed workshop batch reference. They can verify a side record, never a main archive fragment.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "target.moon_gate_mask.research": {
+    "text": "The client withheld this name. Its delivery paperwork, not a hidden main fragment, closes the first commission.",
+    "context": "campaign",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.title": {
+    "text": "Ivory Travel Clock",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.mission": {
+    "text": "Ivory Travel Clock",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.room": {
+    "text": "Ivory Travel Clock",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.intro": {
+    "text": "Choose a front carrier. Any empty dock is shared. A sealed real color can wait safely; undo and restart are free.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.outro": {
+    "text": "A specialist buyer wants this fictional mechanism. No verified research connection.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.clue": {
+    "text": "A specialist buyer wants this fictional mechanism. No verified research connection.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.description": {
+    "text": "An original fictional travel clock with a cream dial and brass-colored housing.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.fact_1": {
+    "text": "Created for Pixel Heist; no real artist, museum or provenance is claimed.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.fact_2": {
+    "text": "The specialist buyer is interested in its mechanism. It is not a main archive carrier.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.artist": {
+    "text": "Pixel Heist studio",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.date": {
+    "text": "Fictional contemporary object",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.museum": {
+    "text": "Original Pixel Heist fiction",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.city": {
+    "text": "London",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.country": {
+    "text": "United Kingdom",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.ivory_travel_clock.context": {
+    "text": "Glimmer sample collection · fictional mission",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.title": {
+    "text": "Workshop Swatches",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.mission": {
+    "text": "Workshop Swatches",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.room": {
+    "text": "Workshop Swatches",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.intro": {
+    "text": "Choose a front carrier. Any empty dock is shared. A sealed real color can wait safely; undo and restart are free.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.outro": {
+    "text": "The swatches carry a fixed workshop batch reference. They can verify a side record, never a main archive fragment.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.clue": {
+    "text": "The swatches carry a fixed workshop batch reference. They can verify a side record, never a main archive fragment.",
+    "context": "story",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.description": {
+    "text": "An original fictional binder of coral and blue-green restoration test swatches.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.fact_1": {
+    "text": "Created for Pixel Heist; no real artist, museum or provenance is claimed.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.fact_2": {
+    "text": "The batch reference connects these samples to a workshop side record.",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.artist": {
+    "text": "Pixel Heist studio",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.date": {
+    "text": "Fictional contemporary object",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.museum": {
+    "text": "Original Pixel Heist fiction",
+    "context": "artwork",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.city": {
+    "text": "London",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.country": {
+    "text": "United Kingdom",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "art.workshop_swatches.context": {
+    "text": "Glimmer sample collection · fictional mission",
+    "context": "place",
+    "note": "P04 target/campaign copy. Offers are fictional estimates; no guaranteed main clue or score."
+  },
+  "campaign.no_targets": {
+    "text": "There are no selectable targets in this case. Return to the operations desk for the case result or next case.",
+    "context": "campaign",
+    "note": "P04 remaining targets and fixed first-case finale; no invented target bonuses."
+  },
+  "campaign.only_finale": {
+    "text": "Four different jobs are complete. Only the fixed finale remains; the two unchosen works wait until after the main story.",
+    "context": "campaign",
+    "note": "P04 remaining targets and fixed first-case finale; no invented target bonuses."
+  },
+  "campaign.few_targets": {
+    "text": "Fewer than three targets remain. These are the actual remaining choices; their values are unchanged.",
+    "context": "campaign",
+    "note": "P04 remaining targets and fixed first-case finale; no invented target bonuses."
+  },
+  "campaign.benefit_finale": {
+    "text": "Opportunity: resolve the first commission",
+    "context": "campaign",
+    "note": "P04 remaining targets and fixed first-case finale; no invented target bonuses."
+  },
+  "screen.s01": {
+    "text": "Continue the night",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s02": {
+    "text": "Night Museum",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s03": {
+    "text": "Operations desk",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s04": {
+    "text": "Choose your next target",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s05": {
+    "text": "Target dossier",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s06": {
+    "text": "Heist",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s07": {
+    "text": "Take a breath",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s08": {
+    "text": "Safely aboard",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s09": {
+    "text": "The way home",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s10": {
+    "text": "Under the work light",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s11": {
+    "text": "Its next chapter",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s12": {
+    "text": "Artwork and memory",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s13": {
+    "text": "The Missing Inventory",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s14": {
+    "text": "News album",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s15": {
+    "text": "Your story as Pixel",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s16": {
+    "text": "Exhibition and storage",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s17": {
+    "text": "Case closed",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s18": {
+    "text": "Your last exhibition",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s19": {
+    "text": "Workshop",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "screen.s20": {
+    "text": "Memory studio",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.shell_ready": {
+    "text": "Ready for your next choice.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.shell_loading": {
+    "text": "Preparing the work…",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.shell_empty": {
+    "text": "Nothing here yet. Your progress is safe.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.shell_error": {
+    "text": "The record could not be saved. Retry to continue safely.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.entrance_hook": {
+    "text": "Seven works. One missing name.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.first_job": {
+    "text": "Start your first job",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.continue": {
+    "text": "Continue the night",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.recap_new": {
+    "text": "Rocco and Sprocket have a list from the Curator. Choose four works; the client is keeping the last target secret.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.recap_job": {
+    "text": "Last night: {art}. {count} choices made in the first case. The next question is waiting at the operations desk.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.city_return": {
+    "text": "Leaving {city} behind",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return_ada": {
+    "text": "Rocco: “The frame is empty.”",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return_milo": {
+    "text": "Sprocket: “Its story isn’t.”",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.skip_return": {
+    "text": "Skip return · inspect now",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.inspection_complete": {
+    "text": "Inspection complete · evidence saved",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.result_none": {
+    "text": "No archive trace. This work still has a place in a personal exhibition.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.result_related": {
+    "text": "The batch reference matches a restoration workshop’s side record. It verifies a connection, not a main archive fragment.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.result_device": {
+    "text": "The delivery order has an extra item: Sprocket’s transfer device. Rocco redirects the delivery to the Night Museum. The client has some explaining to do.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.result_fragment": {
+    "text": "Archive fragment 1 found in an added conservation layer. The transfer record conflicts with the newer label. The evidence is now safe in the case file.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.result_inconsistent": {
+    "text": "The inventory mark was copied onto a later support. It does not match the original record. There is no archive fragment here.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.fragment_count": {
+    "text": "Verified archive: {count} / 5 fragments",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.archive": {
+    "text": "Read the case file",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.archive_empty": {
+    "text": "No verified archive connection yet. Ordinary works are not promised hidden clues.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.archive_kept": {
+    "text": "Verified evidence stays here after a sale, return or loan.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.decide": {
+    "text": "Choose its future",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.store": {
+    "text": "Store for now · continue",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.disposition_intro": {
+    "text": "The first inspection is free and already saved. These recipients and offers belong to the fictional operation. Keeping the work gives up the sale income.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.keep": {
+    "text": "Keep and exhibit",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.keep_consequence": {
+    "text": "Keep the original for your museum. No sale credits are paid.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.buyer_private": {
+    "text": "Private study collector",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.buyer_public": {
+    "text": "Riverlight public salon",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.buyer_offer": {
+    "text": "{buyer} · {credits} credits",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.private_consequence": {
+    "text": "A higher offer, but private access. The original leaves your collection; archived evidence stays.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.public_consequence": {
+    "text": "A lower offer for public display. The original leaves your museum; archived evidence stays.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return": {
+    "text": "Return to the verified cooperative",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return_consequence": {
+    "text": "The Restoration Cooperative is the verified recipient in this fictional record. Return the original without a sale; keep the evidence.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.loan": {
+    "text": "Loan to Riverlight exhibition",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.loan_consequence": {
+    "text": "The verified Riverlight exhibition can display it. The original is unavailable in your museum while on loan; no sale income.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return_locked": {
+    "text": "Return unavailable: no recipient has been verified for this work.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.loan_locked": {
+    "text": "Loan unavailable: no exhibition agreement for this work.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.confirm_title": {
+    "text": "Confirm this future",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.confirm": {
+    "text": "Confirm decision",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.cancel": {
+    "text": "Keep choosing",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.reward": {
+    "text": "First-job payment recorded: {credits} credits. Replays pay nothing extra.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.demo_reward": {
+    "text": "Artwork secured. The all-unlocked demo grants no job payment.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.return_museum": {
+    "text": "Return to museum",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.next_case": {
+    "text": "Open the next case",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.ownership_owned": {
+    "text": "original kept",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.ownership_sold": {
+    "text": "left the collection",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.ownership_returned": {
+    "text": "returned",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.ownership_loaned": {
+    "text": "on loan",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.personal_exhibition": {
+    "text": "A museum shaped by your choices.",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.original": {
+    "text": "original",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.memory": {
+    "text": "memory record",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.manage": {
+    "text": "Decide about this work",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "post.resume_inspection": {
+    "text": "Continue the inspection",
+    "context": "story_flow",
+    "note": "P05. Fictional operation; stable evidence and one-time grants. Never imply real institutional wrongdoing."
+  },
+  "economy.profile": {
+    "text": "Profile",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.wallet": {
+    "text": "Wallet · {credits} credits",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.wallet_hint": {
+    "text": "Spend credits on presentation. Lifetime Wealth never falls when you spend.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.path_wealth": {
+    "text": "Wealth",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.path_renown": {
+    "text": "Renown",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.path_insight": {
+    "text": "Research",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.path_curation": {
+    "text": "Collecting",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.path_rank": {
+    "text": "{path} · {rank}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.points": {
+    "text": "{points} points · next rank at {next}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_max": {
+    "text": "{points} points · highest rank",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rule_wealth": {
+    "text": "First story job fees and confirmed first sales. Ad credits and purchased packs do not count.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rule_renown": {
+    "text": "First story heists earn 10 points per recognition level. Public decisions can add visibility once.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rule_insight": {
+    "text": "First verified inspections only: side link 12, inconsistency 8, main fragment 25. No evidence means no research points.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rule_curation": {
+    "text": "Three originals with a shared theme on one floor earn 20 once per theme. Three originals spanning four themes earn 15 once. Photos and rebuilding earn nothing.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.history": {
+    "text": "Your choices",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.choices": {
+    "text": "Story jobs: {jobs} · Originals kept: {kept}\nSold: {sold} · Returned: {returned} · On loan: {loaned}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contacts": {
+    "text": "Contact trust",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contacts_empty": {
+    "text": "Your first confirmed decisions will build individual relationships.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contact_value": {
+    "text": "{contact} · trust {trust}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contact_private_study_collector": {
+    "text": "Private study collector",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contact_riverlight_salon": {
+    "text": "Riverlight salon",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.contact_restoration_cooperative": {
+    "text": "Restoration Cooperative",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decision_path": {
+    "text": "On first confirmation: {path} +{points}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decision_trust": {
+    "text": "{contact}: trust +{points}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.pinned": {
+    "text": "Three pinned jobs",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.pins_empty": {
+    "text": "Open a job memory to pin it here.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.memories": {
+    "text": "Job memories",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.memory": {
+    "text": "My job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.call_sign": {
+    "text": "Call sign · up to 24 characters",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.save_name": {
+    "text": "Save call sign",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.first_date": {
+    "text": "First completed · {date} UTC",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.date_unknown": {
+    "text": "The old save did not record a completion date.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.job_location": {
+    "text": "Fictional job · {city}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.labels_hint": {
+    "text": "Choose one primary memory label. Labels change no rewards or puzzle rules. Automatic firsts stay with their original job.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.masterpiece_locked": {
+    "text": "My Masterpiece requires a first completion of an authored difficult job; speed and undo use do not matter.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.pin": {
+    "text": "Pin this job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.unpin": {
+    "text": "Unpin this job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.pins_full": {
+    "text": "Three jobs are pinned. Unpin one from its memory before choosing another.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decorations": {
+    "text": "Credit decorations",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.shop_hint": {
+    "text": "Earned credits only. Your first story-job payment buys a van finish. Preview freely; decorations never change the puzzle.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.preview": {
+    "text": "Preview · {item}",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.preview_button": {
+    "text": "Preview",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.price": {
+    "text": "{credits} earned credits",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.buy": {
+    "text": "Get with credits",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.equip": {
+    "text": "Use this look",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.equipped": {
+    "text": "Owned · in use",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.insufficient": {
+    "text": "Keep playing to earn more credits. No sale is required.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.job_preview": {
+    "text": "First completion: {credits} credits and {renown} Renown. Sale income requires a later decision.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.replay": {
+    "text": "Replay changes no first-job payment or professional progress.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.inspection_preview": {
+    "text": "Free first inspection may add Research if a link or discrepancy is verified. A possible lead is not a guaranteed fragment.",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_dealer": {
+    "text": "A dealer by choice",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_curator": {
+    "text": "A museum taking shape",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_researcher": {
+    "text": "A quiet researcher",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_headline": {
+    "text": "A name in the headlines",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_returner": {
+    "text": "An original found its way home",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.portrait_beginning": {
+    "text": "Your first choices are taking shape",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_first_job": {
+    "text": "My First Job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_first_big_job": {
+    "text": "My First Big Job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_masterpiece": {
+    "text": "My Masterpiece",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_hardest_job": {
+    "text": "My Hardest Job",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_first_return": {
+    "text": "My First Return",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.label_overlooked_favorite": {
+    "text": "My Overlooked Favorite",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_van_cobalt": {
+    "text": "Cobalt service van",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_van_coral": {
+    "text": "Coral service van",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_van_night": {
+    "text": "Twilight service van",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_stage_cobalt": {
+    "text": "Cobalt diorama platform",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_stage_violet": {
+    "text": "Violet diorama platform",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.decor_stage_emerald": {
+    "text": "Emerald diorama platform",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_wealth_0": {
+    "text": "Starting out",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_wealth_1": {
+    "text": "First savings",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_wealth_2": {
+    "text": "Well funded",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_wealth_3": {
+    "text": "Patron",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_wealth_4": {
+    "text": "Night benefactor",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_renown_0": {
+    "text": "Unseen",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_renown_1": {
+    "text": "A whisper",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_renown_2": {
+    "text": "Known name",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_renown_3": {
+    "text": "Headline",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_renown_4": {
+    "text": "Legend",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_insight_0": {
+    "text": "Curious",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_insight_1": {
+    "text": "First link",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_insight_2": {
+    "text": "Archivist",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_insight_3": {
+    "text": "Investigator",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_insight_4": {
+    "text": "Archive keeper",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_curation_0": {
+    "text": "Empty walls",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_curation_1": {
+    "text": "First room",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_curation_2": {
+    "text": "Curator",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_curation_3": {
+    "text": "Distinct vision",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "economy.rank_curation_4": {
+    "text": "Museum signature",
+    "context": "economy_profile",
+    "note": "P06. Earned fictional credits, independent paths and truthful personal memories; preserve placeholders."
+  },
+  "curation.instructions": {
+    "text": "Select a work, then a position. You can also drag a work onto a position. Moving a work keeps its history.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.floor_previous": {
+    "text": "Previous floor",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.floor_next": {
+    "text": "Next floor",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme": {
+    "text": "Exhibition theme",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_free": {
+    "text": "Personal selection",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_water": {
+    "text": "Water",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_night": {
+    "text": "Night",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_travel": {
+    "text": "Journeys",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_faces": {
+    "text": "Faces",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_gold": {
+    "text": "Gold",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_ceramics": {
+    "text": "Ceramics",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.theme_workshop": {
+    "text": "The workshop",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.free_hint": {
+    "text": "Arrange any five works. Choose a theme to see their physical relationship.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.physical_count": {
+    "text": "Matching originals here: {count} / {required}",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.current_complete": {
+    "text": "Currently complete with physical originals.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.current_incomplete": {
+    "text": "Currently incomplete. Memory pictures do not count as originals.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.historical_complete": {
+    "text": "First exhibition recorded. Its Collecting reward is retained and cannot be earned again.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.historical_pending": {
+    "text": "No historical milestone for this theme yet. Three matching originals on one floor earn it once.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.positions": {
+    "text": "Five display positions",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.selected": {
+    "text": "Ready to place: {art}",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.position": {
+    "text": "{number} · {art}",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.empty": {
+    "text": "Empty position",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.empty_frame": {
+    "text": "Empty this frame",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.storage": {
+    "text": "Originals and memories",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.storage_hint": {
+    "text": "Storage has no capacity limit. Originals stay yours; sold, returned and loaned works offer clearly labeled memory displays.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.search": {
+    "text": "Find a work…",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.recall": {
+    "text": "End loan · return to storage",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.find_job": {
+    "text": "Find a new work",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.place": {
+    "text": "Place in the museum",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.store": {
+    "text": "Move to storage",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.my_job": {
+    "text": "My job",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "curation.replay_hint": {
+    "text": "Replay keeps the same object and grants no repeated payment, profile progress or evidence.",
+    "context": "",
+    "note": "P07 museum curation; stable ID."
+  },
+  "archive.art_section": {
+    "text": "Art record",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.category_tags": {
+    "text": "{category} · {tags}",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.original_fiction": {
+    "text": "Original fictional object",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.real_record": {
+    "text": "Real artwork · museum record",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.mission_section": {
+    "text": "Fictional mission",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.mission_location": {
+    "text": "Mission setting: {city}, {country}",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.demo_holder": {
+    "text": "Demo scenario · fictional private collection",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.fiction_boundary": {
+    "text": "The mission, holders and added conservation evidence are fiction. They do not describe the real museum or artist.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.fragment_slot": {
+    "text": "Fragment {number} · {status}",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.verified": {
+    "text": "Verified",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.unverified": {
+    "text": "Not found",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.known": {
+    "text": "What we know",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.unknown": {
+    "text": "Still unresolved",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.people": {
+    "text": "Known contacts",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.verified_links": {
+    "text": "Verified links",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.known_start": {
+    "text": "Rocco and Sprocket work with a transfer device. Their anonymous client calls themself the Curator.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.unknown_client": {
+    "text": "Who is the Curator, and what do they intend to control?",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.unknown_inventory": {
+    "text": "Which records can establish the objects’ histories? Unverified fragments stay empty.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.link_workshop": {
+    "text": "Workshop Swatches → restoration batch record. A useful side link, not a main fragment.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.link_device": {
+    "text": "Moon Gate Mask → delivery order → Rocco and Sprocket’s device. The client ordered the device too.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.link_copy": {
+    "text": "Apples and Oranges → copied inventory mark. Repetition is a discrepancy, not proof of rightful ownership.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.link_fragment": {
+    "text": "Water Lilies → added conservation support → Fragment 1. The fictional added record is separate from Monet’s painting.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.notes": {
+    "text": "Private notes",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.notes_hint": {
+    "text": "Optional · up to 4,000 characters. Stored only in this save; notes are not evidence or public album text.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.save_notes": {
+    "text": "Save private notes",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "archive.notes_saved": {
+    "text": "Private notes saved.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.archive": {
+    "text": "News archive",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.album": {
+    "text": "Press album",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.optional": {
+    "text": "Read whenever you like. Articles never expire; saving or featuring them gives no reward.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.default_cover": {
+    "text": "After Midnight",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.save_cover": {
+    "text": "Save cover title",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.featured_count": {
+    "text": "Featured clippings · {count}/3",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.section_all": {
+    "text": "All clippings",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.section_jobs": {
+    "text": "Jobs",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.section_returns": {
+    "text": "Returns",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.section_atlas": {
+    "text": "Atlas / records",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.section_museum": {
+    "text": "Museum",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.read": {
+    "text": "Read",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.unread": {
+    "text": "New",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.empty": {
+    "text": "No clippings here yet. Keep collecting; coverage follows meaningful events.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.fiction": {
+    "text": "Fictional press · reactions to events in Pixel Heist.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.save": {
+    "text": "Add to album",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.unsave": {
+    "text": "Remove from album",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.feature": {
+    "text": "Feature clipping",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.unfeature": {
+    "text": "Remove highlight",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.featured_full": {
+    "text": "Three clippings are featured. Remove one highlight to choose another.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.divider": {
+    "text": "Album divider",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.back": {
+    "text": "Back to clippings",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_night_wire": {
+    "text": "Night Wire · city desk",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_critic": {
+    "text": "The Margin · art criticism",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_riverlight": {
+    "text": "Riverlight Bulletin · exhibition desk",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_community": {
+    "text": "Workshop Voices · cooperative letter",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_voss": {
+    "text": "Glimmer Office · issued statement",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.outlet_nora": {
+    "text": "The Ledger · Quill",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_job_headline": {
+    "text": "The frame stayed. Everything inside left.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_job_p1": {
+    "text": "A new thief has a remarkably tidy method. The latest missing object: {art}.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_job_p2": {
+    "text": "A clean exit is not an answer to who should hold the work. For now, the city has a story and an empty space.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.famous_target_headline": {
+    "text": "Recognition is not a claim of ownership",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.famous_target_p1": {
+    "text": "Everyone recognizes {art}. That makes its disappearance louder, not its new custody easier to defend.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.famous_target_p2": {
+    "text": "A famous image can bring attention to a collection. Attention should also bring questions about access and responsibility.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.private_sale_headline": {
+    "text": "A price was agreed. Access was not.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.private_sale_p1": {
+    "text": "{art} has moved to a private buyer. The transaction improves a thief’s finances; it does not open a public door.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.private_sale_p2": {
+    "text": "The recovered records remain separate from the original. Evidence can survive a sale while access to the work narrows.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.public_sale_headline": {
+    "text": "A new wall, and a public promise",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.public_sale_p1": {
+    "text": "Riverlight Salon confirms a purchase from Pixel’s collection: {art}. The public-facing buyer paid less than the private offer.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.public_sale_p2": {
+    "text": "The salon welcomes the attention. Its promise of access still leaves the history of the object open to examination.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_return_headline": {
+    "text": "Our working record came back",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_return_p1": {
+    "text": "The Restoration Cooperative acknowledges the verified return of {art}. These samples are part of our working history.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_return_p2": {
+    "text": "There was no sale payment. Our letter records gratitude and a renewed relationship, not permission for every theft.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_loan_headline": {
+    "text": "A collection lends, and makes room",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_loan_p1": {
+    "text": "Riverlight Salon has accepted {art} on loan. For the loan period, the original leaves the Night Museum.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_loan_p2": {
+    "text": "A photograph can remember the choice, but cannot fill the original’s place in a physical exhibition.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_exhibition_headline": {
+    "text": "An arrangement begins to make an argument",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_exhibition_p1": {
+    "text": "Three originals sharing a theme have met on one floor of the Night Museum. {art} was among that first group.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_exhibition_p2": {
+    "text": "The milestone belongs to the museum’s history. Sell or move an original and the present arrangement may tell a different story.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_commission_headline": {
+    "text": "Glimmer office disputes a diverted delivery",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_commission_p1": {
+    "text": "The office objects to the redirection of a collection following the Moon Gate Mask job. It calls the delivery instructions binding.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.first_commission_p2": {
+    "text": "The statement does not explain why Rocco and Sprocket’s device appeared on the same order. That omission remains on the record.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.verified_fragment_headline": {
+    "text": "One verified fragment is a beginning",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.verified_fragment_p1": {
+    "text": "A record in added conservation material has been archived after the reconstruction of {art}. It is a later addition in this fictional case, not a message by the original artist.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.verified_fragment_p2": {
+    "text": "The fragment can be checked even if the object changes hands. It does not by itself settle every ownership claim.",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.approach": {
+    "text": "Approach frame",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.return_corridor": {
+    "text": "Return to corridor",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.room_controls": {
+    "text": "← → / A D · move    ↑ · approach    ↓ · return",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.room_quality_normal": {
+    "text": "Room detail: full",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.room_quality_low": {
+    "text": "Room detail: light",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "museum.frame_selected": {
+    "text": "Frame {frame} of 5",
+    "context": "",
+    "note": "P07 optional museum reading and curation."
+  },
+  "news.count_new": {
+    "text": "News · {count} new",
+    "context": "",
+    "note": "P07 museum."
+  },
+  "boost.refill_eyebrow": {
+    "text": "3× time",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_title": {
+    "text": "Refill 3× time?",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_body": {
+    "text": "Add {seconds} seconds of 3× time for {credits} earned credits. It counts down only while 3× is running.",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_balance": {
+    "text": "Balance: {credits} credits",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_buy": {
+    "text": "Buy · {credits} credits",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_short": {
+    "text": "Not enough credits yet. Finish jobs or sell a work to earn more.",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "boost.refill_cancel": {
+    "text": "Not now",
+    "context": "boost",
+    "note": "2026-09-23 purchasable 3× refill with earned credits. Keep named placeholders."
+  },
+  "ui.level_badge": {
+    "text": "LEVEL {n}",
+    "context": "",
+    "note": "Keep named placeholders and proper names. Player-facing interface text."
+  },
+  "lobby.title": {
+    "text": "Pixel: Heist",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.tagline": {
+    "text": "Liberating Art, Pixel by Pixel",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.energy": {
+    "text": "Energy",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.gold": {
+    "text": "Gold",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.chests": {
+    "text": "Chests",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.event_apples": {
+    "text": "Event: Apples",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.watch_ads": {
+    "text": "Watch Ads",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.shop": {
+    "text": "Shop",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.safehouse": {
+    "text": "Safehouse",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.upgrades": {
+    "text": "Upgrades",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.play": {
+    "text": "Play",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.profile": {
+    "text": "Profile",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "lobby.coming_soon": {
+    "text": "Coming soon",
+    "context": "lobby",
+    "note": "Title/lobby screen (2026-09-25). Short HUD labels; keep them compact."
+  },
+  "ads.free_coins_done": {
+    "text": "No more free coins today.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ads.skipped": {
+    "text": "No reward this time.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ads.unavailable": {
+    "text": "No ad available right now.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.bought": {
+    "text": "{name} added!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.buy": {
+    "text": "Buy for {gold}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.dock_max": {
+    "text": "No room for another dock.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.extra_dock": {
+    "text": "Extra Dock",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.zap": {
+    "text": "Zap",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.scout_fly": {
+    "text": "Scout Fly",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.master_key": {
+    "text": "Master Key",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.extra_dock_help": {
+    "text": "Opens one more dock for this heist.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.zap_help": {
+    "text": "Sends a docked carrier back to its queue.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.scout_fly_help": {
+    "text": "Reveals every ? packet.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.master_key_help": {
+    "text": "Next carrier ignores the entry side.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.fly_none": {
+    "text": "No hidden packets here.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.key_armed": {
+    "text": "Next carrier enters from any side.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.key_none": {
+    "text": "Every side is already open.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.zap_none": {
+    "text": "No idle carrier to zap.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.zap_pick": {
+    "text": "Tap a carrier to zap.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "chest.chapter_progress": {
+    "text": "Complete five levels to open it.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "chest.daily_wait": {
+    "text": "Come back tomorrow!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "chest.star_progress": {
+    "text": "{stars} / {total} stars",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "complete.double": {
+    "text": "2× Coins",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "complete.new_crew": {
+    "text": "New crew member!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "complete.title": {
+    "text": "Level Complete!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.full": {
+    "text": "Energy full!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.minus_one": {
+    "text": "−1 energy",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.next": {
+    "text": "Next energy in {time}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.plus_one": {
+    "text": "+1 energy",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.refill": {
+    "text": "Refill · {gold}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.title": {
+    "text": "Out of Energy",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "energy.watch_ad": {
+    "text": "Watch Ad · +1",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.equip": {
+    "text": "Equip",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.equipped": {
+    "text": "Equipped",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.floor": {
+    "text": "Floor {n}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.tab_paintings": {
+    "text": "Paintings",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.tab_crew": {
+    "text": "Crew",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.title": {
+    "text": "Gallery",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.unlocks": {
+    "text": "Joins after Chapter {n}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "gallery.counter": {
+    "text": "{done} / {total}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.all_done": {
+    "text": "More soon",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.chapter_chest": {
+    "text": "Milestone Chest",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.coming_soon_heists": {
+    "text": "More heists coming soon!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.daily": {
+    "text": "Daily",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.free_coins": {
+    "text": "+{gold} Coins",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.gallery": {
+    "text": "Gallery",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.offers": {
+    "text": "Offers",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "lobby.star_chest": {
+    "text": "Star Chest",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "offer.boosters": {
+    "text": "{count} of each booster",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "offer.energy": {
+    "text": "1 hour unlimited energy",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "offer.gold": {
+    "text": "{gold} gold",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "offer.look": {
+    "text": "Night Drone look",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "offer.no_ads": {
+    "text": "Removes interstitial ads",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "oos.body": {
+    "text": "Out of space!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "oos.continue": {
+    "text": "Continue +1 Dock · {gold}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "oos.title": {
+    "text": "Docks Full",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "oos.watch_ad": {
+    "text": "Watch Ad · +1 Dock",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "reward.chapter": {
+    "text": "Milestone Chest",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "reward.daily": {
+    "text": "Daily Reward",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "reward.purchase": {
+    "text": "Thank you!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "reward.star": {
+    "text": "Star Chest",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "reward.title": {
+    "text": "Reward",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "save.problem": {
+    "text": "Save Problem",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "save.short": {
+    "text": "Your progress is safe. Tap Retry.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.links": {
+    "text": "Privacy · Support",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.music": {
+    "text": "Music",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.off": {
+    "text": "Off",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.on": {
+    "text": "On",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.paused_title": {
+    "text": "Paused",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.reduced_motion": {
+    "text": "Reduced Motion",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.sound": {
+    "text": "Sound",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.version": {
+    "text": "Version {version}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "settings.vibration": {
+    "text": "Vibration",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "share.copied": {
+    "text": "Share text copied!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "share.text": {
+    "text": "I just stole {title} in Pixel: Heist!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.boosters": {
+    "text": "Boosters",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.cancelled": {
+    "text": "Purchase cancelled.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.coins": {
+    "text": "Coins",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.failed": {
+    "text": "Purchase failed.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.looks": {
+    "text": "Looks",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.need_gold": {
+    "text": "Not enough gold.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.no_ads": {
+    "text": "No Ads",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.owned": {
+    "text": "Already owned.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.owned_count": {
+    "text": "You have {count}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.owned_label": {
+    "text": "Owned",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.pending": {
+    "text": "Purchase pending.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.processing": {
+    "text": "Processing",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.restore": {
+    "text": "Restore Purchases",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.restored": {
+    "text": "{count} restored",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "shop.title": {
+    "text": "Shop",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.chapter_complete": {
+    "text": "Chapter {n} Complete",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.choice": {
+    "text": "Your Choice",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.choose": {
+    "text": "Choose",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.coming_soon": {
+    "text": "Coming soon!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.evidence": {
+    "text": "Evidence Board",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.fragment": {
+    "text": "Fragment {n} / 5",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.next": {
+    "text": "Next",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.next_chapter": {
+    "text": "Chapter {n}",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.open_chest": {
+    "text": "Open Chest",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "story.skip": {
+    "text": "Skip",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "tip.booster": {
+    "text": "Try a booster!",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "tip.mystery": {
+    "text": "? packets reveal at the front.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "tip.send": {
+    "text": "Tap to send the ants.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "tip.wait": {
+    "text": "Colors can wait.",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ui.collect": {
+    "text": "Collect",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ui.resume": {
+    "text": "Resume",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ui.retry": {
+    "text": "Retry",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "ui.share": {
+    "text": "Share",
+    "context": "r13",
+    "note": "r13 screen text (English only; other catalogs mirror English and are not shipped)."
+  },
+  "booster.row_beam": {
+    "text": "Row Beam",
+    "context": "",
+    "note": "English-only v4 heist interface; other catalogs keep English fallback."
+  },
+  "booster.row_beam_help": {
+    "text": "Clear the lowest occupied row. Wait until its ants return.",
+    "context": "",
+    "note": "English-only v4 heist interface; other catalogs keep English fallback."
+  },
+  "booster.beam_busy": {
+    "text": "Wait for the ants on that row to return.",
+    "context": "",
+    "note": "English-only v4 heist interface; other catalogs keep English fallback."
+  },
+  "lobby.case_file": {
+    "text": "Case File",
+    "context": "home navigation",
+    "note": "Approved home reference; English-only release. Dormant locales retain English fallback."
+  },
+  "lobby.rewards": {
+    "text": "Rewards",
+    "context": "home navigation",
+    "note": "Approved home reference; English-only release. Dormant locales retain English fallback."
+  },
+  "lobby.start_heist": {
+    "text": "Start Heist",
+    "context": "home navigation",
+    "note": "Approved home reference; English-only release. Dormant locales retain English fallback."
+  },
+  "lobby.home": {
+    "text": "Home",
+    "context": "home navigation",
+    "note": "Approved home reference; English-only release. Dormant locales retain English fallback."
+  },
+  "lobby.museum": {
+    "text": "Museum",
+    "context": "home navigation",
+    "note": "Approved home reference; English-only release. Dormant locales retain English fallback."
+  },
+  "museum.title": {
+    "text": "Museum",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.tab_paintings": {
+    "text": "Floors",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.tab_collection": {
+    "text": "Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.tab_crew": {
+    "text": "Crew",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.show_originals": {
+    "text": "Show Originals",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.show_pixels": {
+    "text": "Show Pixels",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.floor_progress": {
+    "text": "FLOOR {n} · {done} / 10",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.coming_soon": {
+    "text": "Coming soon",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.swipe": {
+    "text": "Swipe to explore all ten frames",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.view": {
+    "text": "View",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.edit": {
+    "text": "Edit Room",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.photo_mode": {
+    "text": "Photo Mode",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.pixel_short": {
+    "text": "Pixel",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.original_short": {
+    "text": "Original",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.done": {
+    "text": "Done",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.remove": {
+    "text": "Remove",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.add": {
+    "text": "Add",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.feature": {
+    "text": "Feature this artwork",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.save_failed": {
+    "text": "Could not save. Please try again.",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.default_title": {
+    "text": "My Midnight Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.collection_full": {
+    "text": "Room full. Remove an artwork first.",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.back": {
+    "text": "Back",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.save_png": {
+    "text": "Save PNG",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.export_hint": {
+    "text": "Only your exhibition appears in the saved image.",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.export_saved": {
+    "text": "Collection image saved.",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.empty_room": {
+    "text": "Win a painting to start your collection.",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.pixel_edition": {
+    "text": "Pixel Edition",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.private_collection": {
+    "text": "Private Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.theme_midnight": {
+    "text": "Midnight",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.theme_emerald": {
+    "text": "Emerald",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.theme_burgundy": {
+    "text": "Burgundy",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.milestones": {
+    "text": "Milestones",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.remove_collection": {
+    "text": "Remove from Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.add_collection": {
+    "text": "Add to Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.open_collection": {
+    "text": "Open Collection",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.stage_complete": {
+    "text": "Stage {n} Complete",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.mid_stage": {
+    "text": "Halfway There",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.next_stage": {
+    "text": "Stage {n}",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.crew_unlock": {
+    "text": "LEVEL {n}",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "museum.view_museum": {
+    "text": "View in Museum",
+    "context": "museum and stages",
+    "note": "Approved ten-stage museum and collection; English-only release."
+  },
+  "reward.stage": {
+    "text": "Stage Chest",
+    "context": "reward",
+    "note": "The tenth-level milestone retains its existing claim ID and amount."
+  },
+  "speed3.title": {
+    "text": "3X Speed",
+    "context": "",
+    "note": "English player-facing timed speed upgrade; keep placeholders."
+  },
+  "speed3.help": {
+    "text": "3X ant speed for 5 minutes.",
+    "context": "",
+    "note": "English player-facing timed speed upgrade; keep placeholders."
+  },
+  "speed3.buy": {
+    "text": "Unlock for {gold} gold",
+    "context": "",
+    "note": "English player-facing timed speed upgrade; keep placeholders."
+  },
+  "speed3.offer": {
+    "text": "3X · {gold} gold · 5:00",
+    "context": "",
+    "note": "English player-facing timed speed upgrade; keep placeholders."
+  },
+  "speed3.active": {
+    "text": "3X available · {time} left",
+    "context": "",
+    "note": "English player-facing timed speed upgrade; keep placeholders."
+  }
+}

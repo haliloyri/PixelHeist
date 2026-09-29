@@ -1,0 +1,112 @@
+[
+  {
+    "id": "stage_first_commission",
+    "number": 1,
+    "title": "The First Commission",
+    "story_chapters": [
+      1,
+      2
+    ],
+    "first_level": 1,
+    "last_level": 10
+  },
+  {
+    "id": "stage_hidden_routes",
+    "number": 2,
+    "title": "Hidden Routes",
+    "story_chapters": [
+      3,
+      4
+    ],
+    "first_level": 11,
+    "last_level": 20
+  },
+  {
+    "id": "stage_sealed_shipment",
+    "number": 3,
+    "title": "Sealed Shipment",
+    "story_chapters": [
+      5,
+      6
+    ],
+    "first_level": 21,
+    "last_level": 30
+  },
+  {
+    "id": "stage_silent_auction",
+    "number": 4,
+    "title": "The Silent Auction",
+    "story_chapters": [
+      7,
+      8
+    ],
+    "first_level": 31,
+    "last_level": 40
+  },
+  {
+    "id": "stage_double_entry",
+    "number": 5,
+    "title": "Double Entry",
+    "story_chapters": [
+      9,
+      10
+    ],
+    "first_level": 41,
+    "last_level": 50
+  },
+  {
+    "id": "stage_missing_voices",
+    "number": 6,
+    "title": "Missing Voices",
+    "story_chapters": [
+      11,
+      12
+    ],
+    "first_level": 51,
+    "last_level": 60
+  },
+  {
+    "id": "stage_behind_the_labels",
+    "number": 7,
+    "title": "Behind the Labels",
+    "story_chapters": [
+      13,
+      14
+    ],
+    "first_level": 61,
+    "last_level": 70
+  },
+  {
+    "id": "stage_cost_of_trust",
+    "number": 8,
+    "title": "The Cost of Trust",
+    "story_chapters": [
+      15,
+      16
+    ],
+    "first_level": 71,
+    "last_level": 80
+  },
+  {
+    "id": "stage_last_offer",
+    "number": 9,
+    "title": "The Last Offer",
+    "story_chapters": [
+      17,
+      18
+    ],
+    "first_level": 81,
+    "last_level": 90
+  },
+  {
+    "id": "stage_whose_museum",
+    "number": 10,
+    "title": "Whose Museum?",
+    "story_chapters": [
+      19,
+      20
+    ],
+    "first_level": 91,
+    "last_level": 100
+  }
+]

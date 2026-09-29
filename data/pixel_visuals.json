@@ -1,0 +1,66 @@
+{
+  "girl_with_a_pearl_earring": {
+    "path": "res://assets/artworks/pixels/girl_with_a_pearl_earring.png",
+    "sha256": "1c3d137d4baa1bbb12f33ac0435ecbe8d824c67648d7b8ae4f5449c437ecfd03",
+    "original_sha256": "a73dbbea841366b256db645cb7563dfd5d27d0f2791cb7f1acf46cdc71b67260",
+    "width": 27,
+    "height": 32,
+    "colors": 24
+  },
+  "starry_night": {
+    "path": "res://assets/artworks/pixels/starry_night.png",
+    "sha256": "e1eca298edd69a59ff599ca8c55b2d6cbf4bc7981009d1ac55d7b92e60f52f7f",
+    "original_sha256": "70ddc5f0b95875823ddf261ad749b0faaaa5405b5cfcfdd803628c28da847137",
+    "width": 40,
+    "height": 32,
+    "colors": 24
+  },
+  "moon_gate_mask": {
+    "path": "res://assets/artworks/pixels/moon_gate_mask.png",
+    "sha256": "18c1ef7d0e0bde65264c4cd7647877e396145169a22009f5da3ad8e68f7fce66",
+    "original_sha256": "2c9588a12db2f08f92c3313b0b6e0cc1e7694f56e943f7d765141d4fa8ce4c56",
+    "width": 32,
+    "height": 32,
+    "colors": 24
+  },
+  "mona_lisa": {
+    "path": "res://assets/artworks/pixels/mona_lisa.png",
+    "sha256": "6096abc0347df7ddec12b7a12a2800b0d88e9af96a377c18ff08fbfe67011400",
+    "original_sha256": "90c5b71d90a3195e1df3b9d3aa727238f01b519cfad55b06cc263c5f1bcebedb",
+    "width": 21,
+    "height": 32,
+    "colors": 16
+  },
+  "the_kiss": {
+    "path": "res://assets/artworks/pixels/the_kiss.png",
+    "sha256": "4d63e3c959f772deaa9ce275bf52b0b8546a01df7aef95e1f9dde6bd7fb2b53b",
+    "original_sha256": "a09f3bc06c16e80570d05d5814edea1ef78ed69c3f948e0ce81b27943ce765ef",
+    "width": 31,
+    "height": 32,
+    "colors": 24
+  },
+  "the_scream": {
+    "path": "res://assets/artworks/pixels/the_scream.png",
+    "sha256": "0c725f2547798171bc70ffe02c85b3d72759c51ffe0af7b175f8aa9bb2695b16",
+    "original_sha256": "3794a9ab533511dca1dbc463870fe3127f25b6d973fb5e129b5c2144355c9913",
+    "width": 26,
+    "height": 32,
+    "colors": 16
+  },
+  "birth_of_venus": {
+    "path": "res://assets/artworks/pixels/birth_of_venus.png",
+    "sha256": "d12526f6e8adc453d84bf76f69e9418e7df2abd403064d86ac198ffc0104b6fe",
+    "original_sha256": "2edb93577a46286a05e32c17b514ebcc2149b5d09ddf3f8a1aa32f4db2684d8e",
+    "width": 50,
+    "height": 32,
+    "colors": 24
+  },
+  "water_lilies": {
+    "path": "res://assets/artworks/pixels/water_lilies.png",
+    "sha256": "e905732ad461d17e51193a4c01b1788cebc60f07eca23d0d39d88e290ad525a5",
+    "original_sha256": "fa27f5bd28790b35cdd4e4ca044562c4e391bc64dd7c3165dcf8ac056adb75e2",
+    "width": 33,
+    "height": 32,
+    "colors": 24
+  }
+}

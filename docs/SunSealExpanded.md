@@ -1,0 +1,11 @@
+# Expanded Sun Seal and direct ant approaches — P16-44
+
+27 September 2026. Sun Seal now has 32×32 / 1,024 pixels at the previous 290/18 screen-unit pitch. The square board is about 516 units across, centred horizontally at y=112. The progress bar and count share one compact row below the frame so active drones remain unobstructed. Five colors and gapless shaded faces remain. Its 33 authored packets conserve the exact pixel budget. The previous 18×18 board is archived alongside all earlier versions for checkpoint compatibility.
+
+Ants compare both cube flanks and reachable frame entries using full approach cost. Open-space travel is a direct diagonal to the chosen bottom passage; crossings use the opening width with body clearance. Empty-cell grid paths, bottom-only access, peck/wait gates and reserved targets remain. Ant width is reduced by 20%, with unchanged length and distance-driven gait.
+
+Backup: `.backups/pre-expanded-sun-seal-20260927.tgz`. Validation complete: source generation `--check`, planning/localization/chapter checks, clean import and main-scene startup passed. Six relevant suites passed 1,027 checks: source pixels 132, scout routes 28, heist v4 61, heist feedback 743, intro 39, motion feedback 24. The final layout rerun and seven GPU captures are in `artifacts/validation/sun-seal-expanded-final/`; unchanged feedback/intro/motion evidence is in `artifacts/validation/sun-seal-expanded/`. The first run exposed an overstrict HUD boundary assertion and inadequate space under the stacked progress labels; the boundary check was corrected and the progress UI now uses one row. Final gameplay, walking and tall-phone captures were visually inspected.
+
+A complete real-flight simulation collected all 1,024 cells and won without boosters (963.4 simulated seconds with conservative serial packet deployment, not human playtime). Prior 18×18, 16×16, first 32×32 and original small/large-queue saves resumed with their own boards, flights and wallets intact. Route checks cover opposite drone origins, direct approach distance, distinct crossings within a passage, blocked corridors, closed-rail waiting and sealed targets. Tests used isolated saves throughout.
+
+ P16 remains ongoing; real-device acceptance stays in P16-29.

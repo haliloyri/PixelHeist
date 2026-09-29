@@ -1,0 +1,384 @@
+[gd_scene load_steps=20 format=3]
+[ext_resource type="Script" path="res://scripts/ui/backdrop.gd" id="1_bg"]
+[ext_resource type="Script" path="res://scripts/ui/pixel_art.gd" id="2_art"]
+[ext_resource type="Script" path="res://scripts/ui/heist_view.gd" id="3_transfer"]
+[ext_resource type="Script" path="res://scripts/ui/capsule_button.gd" id="4_capsule"]
+[ext_resource type="Script" path="res://scripts/ui/round_tool_button.gd" id="5_tool"]
+[ext_resource type="Script" path="res://scripts/ui/heist_power_button.gd" id="power"]
+
+[ext_resource type="Script" path="res://scripts/ui/access_frame.gd" id="access"]
+[ext_resource type="Script" path="res://scripts/ui/speed_button.gd" id="speed_ui"]
+[ext_resource type="Script" path="res://scripts/ui/pause_button.gd" id="pause_ui"]
+[ext_resource type="Script" path="res://scripts/ui/level_badge.gd" id="badge_ui"]
+[ext_resource type="Script" path="res://scripts/ui/progress_ribbon.gd" id="progress_ui"]
+[ext_resource type="Script" path="res://scripts/ui/gallery_frame.gd" id="gallery_frame"]
+[ext_resource type="Texture2D" path="res://assets/toolbar/tool_0_ant_plus.png" id="tool_0"]
+[ext_resource type="Texture2D" path="res://assets/toolbar/tool_1_ray_gun.png" id="tool_1"]
+[ext_resource type="Texture2D" path="res://assets/toolbar/tool_2_fly.png" id="tool_2"]
+[ext_resource type="Texture2D" path="res://assets/toolbar/tool_3_key_blueprint.png" id="tool_3"]
+
+[sub_resource type="StyleBoxFlat" id="frame"]
+bg_color = Color(0.9647, 0.7686, 0.2706, 0)
+border_color = Color(0.7059, 0.4745, 0.1176, 1)
+border_width_left = 9
+border_width_top = 9
+border_width_right = 9
+border_width_bottom = 9
+corner_radius_top_left = 28
+corner_radius_top_right = 28
+corner_radius_bottom_left = 28
+corner_radius_bottom_right = 28
+shadow_color = Color(0.35, 0.21, 0.14, 0.22)
+shadow_size = 8
+shadow_offset = Vector2(0, 7)
+
+[sub_resource type="StyleBoxFlat" id="tray"]
+bg_color = Color(0.91373, 0.86667, 0.81569, 1)
+border_color = Color(1.0, 0.9529, 0.7529, 1)
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+corner_radius_top_left = 20
+corner_radius_top_right = 20
+corner_radius_bottom_left = 20
+corner_radius_bottom_right = 20
+
+[sub_resource type="StyleBoxFlat" id="toolbar"]
+bg_color = Color(0.035, 0.070, 0.125, 1)
+border_color = Color(0.72, 0.57, 0.31, 1)
+border_width_left = 2
+border_width_top = 3
+border_width_right = 2
+border_width_bottom = 2
+corner_radius_top_left = 0
+corner_radius_top_right = 0
+corner_radius_bottom_left = 0
+corner_radius_bottom_right = 0
+
+[node name="HeistScreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Background" type="Control" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("1_bg")
+heist_v2 = true
+location_index = 3
+
+[node name="TransferDisplay" type="Control" parent="."]
+layout_mode = 0
+offset_left = 0.0
+offset_top = 0.0
+offset_right = 720.0
+offset_bottom = 1280.0
+mouse_filter = 2
+script = ExtResource("3_transfer")
+
+[node name="PauseButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 20.0
+offset_top = 16.0
+offset_right = 90.0
+offset_bottom = 86.0
+script = ExtResource("pause_ui")
+tooltip_text = "ui.pause"
+
+[node name="MissionLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 248.0
+offset_top = 24.0
+offset_right = 472.0
+offset_bottom = 78.0
+mouse_filter = 2
+script = ExtResource("badge_ui")
+theme_override_font_sizes/font_size = 20
+text = "LEVEL 4"
+horizontal_alignment = 1
+
+[node name="ArtifactTitle" type="Label" parent="."]
+z_index = 1
+layout_mode = 0
+offset_left = 250.0
+offset_top = 488.0
+offset_right = 470.0
+offset_bottom = 518.0
+mouse_filter = 2
+theme_override_colors/font_color = Color(0.3, 0.17, 0.03, 1)
+theme_override_font_sizes/font_size = 16
+vertical_alignment = 1
+text = "art.starry_night.title"
+horizontal_alignment = 1
+
+[node name="SpeedButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 610.0
+offset_top = 24.0
+offset_right = 700.0
+offset_bottom = 78.0
+script = ExtResource("speed_ui")
+
+[node name="Speed3Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 510.0
+offset_top = 24.0
+offset_right = 600.0
+offset_bottom = 78.0
+script = ExtResource("speed_ui")
+
+[node name="ArtifactFrame" type="Control" parent="."]
+layout_mode = 0
+offset_left = 124.0
+offset_top = 90.0
+offset_right = 596.0
+offset_bottom = 502.0
+mouse_filter = 2
+script = ExtResource("gallery_frame")
+
+[node name="Tray" type="Panel" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 88.0
+offset_top = 92.0
+offset_right = 632.0
+offset_bottom = 588.0
+mouse_filter = 2
+theme_override_styles/panel = SubResource("tray")
+
+[node name="Artifact" type="Control" parent="."]
+layout_mode = 0
+offset_left = 142.0
+offset_top = 128.0
+offset_right = 578.0
+offset_bottom = 418.0
+mouse_filter = 2
+script = ExtResource("2_art")
+preview_level = 3
+
+[node name="ProgressBacking" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = 270.0
+offset_top = 524.0
+offset_right = 450.0
+offset_bottom = 532.0
+mouse_filter = 2
+color = Color(1, 0.98, 0.92, 0)
+script = ExtResource("progress_ui")
+
+[node name="ProgressTrack" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = 300.0
+offset_top = 535.0
+offset_right = 420.0
+offset_bottom = 538.0
+mouse_filter = 2
+color = Color(0.76, 0.58, 0.43, 0)
+
+[node name="ProgressFill" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = 300.0
+offset_top = 535.0
+offset_right = 301.0
+offset_bottom = 538.0
+mouse_filter = 2
+color = Color(0.63, 0.44, 0.29, 0)
+
+[node name="ProgressLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 270.0
+offset_top = 562.0
+offset_right = 450.0
+offset_bottom = 582.0
+mouse_filter = 2
+theme_override_colors/font_color = Color(0.93, 0.9, 0.82, 1)
+theme_override_font_sizes/font_size = 12
+text = "0 / 884"
+horizontal_alignment = 1
+
+[node name="StatusLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 96.0
+offset_top = 848.0
+offset_right = 626.0
+offset_bottom = 875.0
+mouse_filter = 2
+theme_override_colors/font_color = Color(0.36, 0.27, 0.5, 1)
+theme_override_font_sizes/font_size = 16
+text = ""
+horizontal_alignment = 1
+
+[node name="Queue0" type="Button" parent="."]
+layout_mode = 0
+offset_left = 148.0
+offset_top = 885.0
+offset_right = 252.0
+offset_bottom = 981.0
+script = ExtResource("4_capsule")
+capacity = 32
+capsule_color = Color(0.14118, 0.23137, 0.23922, 1)
+
+[node name="Queue1" type="Button" parent="."]
+layout_mode = 0
+offset_left = 308.0
+offset_top = 885.0
+offset_right = 412.0
+offset_bottom = 981.0
+script = ExtResource("4_capsule")
+capacity = 18
+capsule_color = Color(0.1451, 0.30196, 0.47451, 1)
+
+[node name="Queue2" type="Button" parent="."]
+layout_mode = 0
+offset_left = 468.0
+offset_top = 885.0
+offset_right = 572.0
+offset_bottom = 981.0
+script = ExtResource("4_capsule")
+capacity = 20
+capsule_color = Color(0.1451, 0.30196, 0.47451, 1)
+
+[node name="Queue3" type="Button" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 148.0
+offset_top = 885.0
+offset_right = 252.0
+offset_bottom = 981.0
+script = ExtResource("4_capsule")
+capacity = 3
+
+[node name="Queue4" type="Button" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 148.0
+offset_top = 885.0
+offset_right = 252.0
+offset_bottom = 981.0
+script = ExtResource("4_capsule")
+capacity = 3
+
+[node name="Toolbar" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -102.0
+grow_horizontal = 2
+grow_vertical = 0
+mouse_filter = 2
+theme_override_styles/panel = SubResource("toolbar")
+
+[node name="UndoButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 82.0
+offset_top = 14.0
+offset_right = 134.0
+offset_bottom = 66.0
+script = ExtResource("5_tool")
+icon_kind = 0
+tooltip_text = "ui.undo"
+
+[node name="SoundButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 533.0
+offset_top = 14.0
+offset_right = 585.0
+offset_bottom = 66.0
+script = ExtResource("5_tool")
+icon_kind = 1
+tooltip_text = "audio.toggle"
+
+[node name="HelpButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 144.0
+offset_top = 14.0
+offset_right = 196.0
+offset_bottom = 66.0
+script = ExtResource("5_tool")
+icon_kind = 2
+tooltip_text = "ui.help"
+
+[node name="Tool0" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+offset_left = 150.0
+offset_top = -90.0
+offset_right = 232.0
+offset_bottom = -8.0
+grow_horizontal = 2
+grow_vertical = 0
+script = ExtResource("power")
+kind = 0
+
+[node name="Tool1" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+offset_left = 320.0
+offset_top = -90.0
+offset_right = 402.0
+offset_bottom = -8.0
+grow_horizontal = 2
+grow_vertical = 0
+script = ExtResource("power")
+kind = 1
+
+[node name="Tool2" type="Button" parent="."]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.0
+anchor_top = 1.0
+anchor_right = 0.0
+anchor_bottom = 1.0
+offset_left = 490.0
+offset_top = -90.0
+offset_right = 572.0
+offset_bottom = -8.0
+grow_horizontal = 2
+grow_vertical = 0
+script = ExtResource("power")
+kind = 2
+
+[node name="Tool3" type="Button" parent="."]
+visible = false
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = 137.0
+offset_top = -110.0
+offset_right = 229.0
+offset_bottom = -18.0
+grow_horizontal = 2
+grow_vertical = 0
+script = ExtResource("5_tool")
+icon_texture = ExtResource("tool_3")
+
+[node name="AccessFrame" type="Control" parent="."]
+visible = false
+layout_mode = 0
+offset_right = 720.0
+offset_bottom = 1280.0
+mouse_filter = 2
+script = ExtResource("access")

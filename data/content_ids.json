@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "legacy_art_ids": {
+    "0": "sun_seal",
+    "1": "sapphire_cup",
+    "2": "girl_with_a_pearl_earring",
+    "3": "starry_night",
+    "4": "moon_gate_mask",
+    "5": "mona_lisa",
+    "6": "the_kiss",
+    "7": "the_scream",
+    "8": "birth_of_venus",
+    "9": "water_lilies",
+    "10": "the_gleaners",
+    "11": "the_magpie",
+    "12": "the_star",
+    "13": "dance_at_le_moulin_de_la_galette",
+    "14": "apples_and_oranges"
+  },
+  "level_ids": [
+    "first_commission",
+    "false_owners",
+    "lower_threshold",
+    "harbor_collection",
+    "wrong_address",
+    "sealed_shipment",
+    "silent_auction",
+    "unsigned_letter",
+    "two_collections",
+    "double_entry",
+    "missing_voices",
+    "open_door",
+    "polite_threat",
+    "whose_story",
+    "pressure_after_dark",
+    "the_cost_of_trust",
+    "missing_page",
+    "last_offer",
+    "final_inventory",
+    "whose_museum"
+  ],
+  "character_ids": [
+    "rocco",
+    "sprocket",
+    "quill",
+    "frost",
+    "glimmer",
+    "tuck",
+    "barnaby"
+  ],
+  "pack_ids": [
+    "night_signature",
+    "art_deco_salon"
+  ],
+  "fragment_ids": [
+    "archive_01",
+    "archive_02",
+    "archive_03",
+    "archive_04",
+    "archive_05"
+  ],
+  "label_ids": [
+    "first_job",
+    "first_big_job",
+    "masterpiece",
+    "hardest_job",
+    "first_return",
+    "overlooked_favorite"
+  ],
+  "art_ids": [
+    "sun_seal",
+    "sapphire_cup",
+    "girl_with_a_pearl_earring",
+    "starry_night",
+    "moon_gate_mask",
+    "mona_lisa",
+    "the_kiss",
+    "the_scream",
+    "birth_of_venus",
+    "water_lilies",
+    "the_gleaners",
+    "the_magpie",
+    "the_star",
+    "dance_at_le_moulin_de_la_galette",
+    "apples_and_oranges",
+    "ivory_travel_clock",
+    "workshop_swatches"
+  ]
+}

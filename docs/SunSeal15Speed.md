@@ -1,0 +1,11 @@
+# Sun Seal 15×15 and timed 3X — P16-45
+
+27 September 2026. This request supersedes the immediately preceding 32×32 Level 1 presentation. A project backup is in `.backups/pre-sun-seal-15-speed3-20260927.tgz`.
+
+Sun Seal now samples 15×15 cells from its unchanged original, using the same 290/18 screen-unit pixel pitch. Its board is about 242 units square. The previous 32×32 board was appended to `source_pixel_history.json`, preserving all older board fingerprints and checkpoints. The top-front face grows deeper, ants gain modest length and width, waiting rows are closer, and only a minority of rear packets remain mystery packets. The artwork name moves to the top frame; count and progress move above it. The level plate stays at the top with more space to the frame.
+
+The free speed button still toggles 1X/2X. A separate 3X chip presents an existing P6-style purchase confirmation for 300 in-game gold. An atomic wallet update grants five wall-clock minutes across heists and saves the deadline. Re-selection within that window is free, and expiry falls back to 2X. Only ants accelerate. English-only speed strings are in the source catalog.
+
+Validation complete: planning, localization, chapter data, clean import and main-scene startup passed. Seven relevant runtime suites passed 958 checks with zero failures: Sun Seal 90, timed 3X 17, boosters 34, heist v4 61, heist feedback 693, motion 24 and bee intro 39. The deterministic source board passed `tools/build_sun_seal_pixels.py --check`. A full real-flight Sun Seal solution collected all 225 cells without boosters in 261.1 simulated seconds at conservative serial packet deployment (not observed player time). The test resumed every prior Sun Seal board version without losing flights, state or wallet. Nine GPU captures in `artifacts/validation/sun-seal-15-speed3/` were inspected: 15×15 gameplay and comparison, walking ants, tall portrait, original and pixel detail, cleared backing, purchase confirmation and active 3X timer. The 3X suite verified free 1X/2X, price confirmation, one atomic 300-gold debit, saved deadline/checkpoint, free re-selection, expiry and safe resume. All tests used isolated saves.
+
+ P16 remains open; native device acceptance is still P16-29.

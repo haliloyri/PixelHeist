@@ -1,0 +1,19 @@
+.godot/
+.backups/
+__pycache__/
+.DS_Store
+# Generated validation evidence and build products stay local.
+artifacts/
+*.pck
+*.xcframework/
+**/xcuserdata/
+*.xcuserstate
+
+# Local credentials and signing material.
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.keystore
+*.mobileprovision

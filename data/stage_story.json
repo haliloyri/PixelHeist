@@ -1,0 +1,72 @@
+{
+  "stage_first_commission": {
+    "intro": "A quiet commission sends Rocco and Sprocket into the museum. Five paintings should be a simple job. The delivery list may say otherwise.",
+    "recaps": {
+      "first_commission": "The order includes Sprocket's device. Rocco refuses the delivery and keeps the paintings at the Safehouse, where Tuck helps build a gallery.",
+      "false_owners": "The first hidden fragment reveals records left by Barnaby Bramble. Four more fragments remain. Rocco and Sprocket follow the trail toward Paris."
+    }
+  },
+  "stage_hidden_routes": {
+    "intro": "The first fragment raises questions about the paintings' past. In Paris, Rocco and Sprocket look for the marks that an altered label cannot hide.",
+    "recaps": {
+      "lower_threshold": "A copied maker's mark points to Atlas workshops. Quill joins the investigation and traces Atlas shipments through Istanbul depots.",
+      "harbor_collection": "Atlas moves artworks under false names. The crew stops following the Curator's orders and begins its own investigation, following a shipment with a wrong address."
+    }
+  },
+  "stage_sealed_shipment": {
+    "intro": "A wrong address is the next lead. Rocco's growing gallery is also a trail of evidence, and Quill wants to know where that trail really leads.",
+    "recaps": {
+      "wrong_address": "A false label conceals the route to a harbor archive. Inside waits a sealed shipment that could connect the scattered records.",
+      "sealed_shipment": "The second fragment maps the transfer network. Glimmer funds its links. Quill insists that proof needs people as well as files."
+    }
+  },
+  "stage_silent_auction": {
+    "intro": "Glimmer's silent auction offers a way into the network. Rocco needs more than a stolen invitation: the crew needs a connection it can verify.",
+    "recaps": {
+      "silent_auction": "An old signature links the Curator to Atlas. Quill seeks an unsigned letter in a designer's storage to test the connection.",
+      "unsigned_letter": "Quill verifies the Curator's place in Atlas's history. Rocco stops taking his calls. Two collections claiming the same painting become the next lead."
+    }
+  },
+  "stage_double_entry": {
+    "intro": "Two collections claim one painting. The crew follows the conflicting records into the restoration archive, searching for the history behind the labels.",
+    "recaps": {
+      "two_collections": "One ownership record has been assigned to two paintings. The restoration archive holds the original records that may expose the substitution.",
+      "double_entry": "The Curator reveals himself as Mr. Frost and proposes keeping everything under his control. The third fragment names living families. Quill wants to find them."
+    }
+  },
+  "stage_missing_voices": {
+    "intro": "The records now point to living families. Rocco and Quill follow those names, asking what a recovered history means to the people who remember it.",
+    "recaps": {
+      "missing_voices": "A recovered chest brings a name home. Rocco begins to value more than the payday and agrees to open the Safehouse gallery for a public showing.",
+      "open_door": "The showing makes headlines. Glimmer responds with a polite invitation to Atlas. Rocco recognizes the threat behind his manners."
+    }
+  },
+  "stage_behind_the_labels": {
+    "intro": "The gallery is no longer a secret. With Glimmer paying attention, Rocco and Quill must defend the story behind the collection as carefully as the works themselves.",
+    "recaps": {
+      "polite_threat": "Glimmer attacks Rocco through the press. Quill finds that a publisher changed witness testimony, and the crew follows the source.",
+      "whose_story": "The testimony was rewritten for Glimmer. Quill and Rocco prepare to publish the original while another fragment waits inside a closed exhibition."
+    }
+  },
+  "stage_cost_of_trust": {
+    "intro": "Pressure builds around the next fragment. Recovering the record is only part of the job: the crew must decide whom it can trust to protect it.",
+    "recaps": {
+      "pressure_after_dark": "The fourth fragment names those who profited. Mr. Frost offers protection, but Quill proposes shared custody instead of a single keeper.",
+      "cost_of_trust": "Researchers and communities offer an alternative to Mr. Frost's control. Atlas begins moving its archive and destroying pages along the way."
+    }
+  },
+  "stage_last_offer": {
+    "intro": "Atlas is moving the archive and destroying pages. Rocco and his partners race to preserve what remains before the record disappears.",
+    "recaps": {
+      "missing_page": "Quill uncovers Glimmer's destruction order. Glimmer offers to buy the crew's silence and demands a meeting in person.",
+      "last_offer": "Rocco rejects Glimmer's offer. A lead in Barnaby's work points toward the device's origin and Glimmer's last private showcase."
+    }
+  },
+  "stage_whose_museum": {
+    "intro": "One private showcase stands between the crew and the complete archive. Barnaby's work may explain the device, but the future of the record is still undecided.",
+    "recaps": {
+      "final_inventory": "Sprocket verifies that Barnaby designed the device's heart. Rocco rejects Mr. Frost's demand and turns toward Glimmer's principal collection and the last fragment.",
+      "whose_museum": "The archive is complete. Rocco's decision determines who holds the record and what the world gets to learn."
+    }
+  }
+}

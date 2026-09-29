@@ -1,0 +1,184 @@
+[
+  {
+    "city": "art.sun_seal.city",
+    "country": "art.sun_seal.country",
+    "pattern": "anatolia",
+    "context": "art.sun_seal.context",
+    "slot_color": "#a27b49",
+    "art_id": "sun_seal",
+    "silhouettes": [
+      "amphora",
+      "vase"
+    ]
+  },
+  {
+    "city": "art.sapphire_cup.city",
+    "country": "art.sapphire_cup.country",
+    "pattern": "iznik",
+    "context": "art.sapphire_cup.context",
+    "slot_color": "#5488a6",
+    "art_id": "sapphire_cup",
+    "silhouettes": [
+      "bust",
+      "column"
+    ]
+  },
+  {
+    "city": "art.girl_with_a_pearl_earring.city",
+    "country": "art.girl_with_a_pearl_earring.country",
+    "pattern": "hague",
+    "context": "art.girl_with_a_pearl_earring.context",
+    "source": "https://www.mauritshuis.nl/en/visit",
+    "slot_color": "#60848d",
+    "art_id": "girl_with_a_pearl_earring",
+    "silhouettes": [
+      "vase",
+      "urn"
+    ]
+  },
+  {
+    "city": "art.starry_night.city",
+    "country": "art.starry_night.country",
+    "pattern": "provence",
+    "context": "art.starry_night.context",
+    "source": "https://www.moma.org/collection/works/79802",
+    "slot_color": "#6376a4",
+    "art_id": "starry_night",
+    "silhouettes": [
+      "column",
+      "amphora"
+    ]
+  },
+  {
+    "city": "art.moon_gate_mask.city",
+    "country": "art.moon_gate_mask.country",
+    "pattern": "luxor",
+    "context": "art.moon_gate_mask.context",
+    "slot_color": "#a4854a",
+    "art_id": "moon_gate_mask",
+    "silhouettes": [
+      "urn",
+      "bust"
+    ]
+  },
+  {
+    "city": "art.mona_lisa.city",
+    "country": "art.mona_lisa.country",
+    "pattern": "paris",
+    "context": "art.mona_lisa.context",
+    "slot_color": "#627e71",
+    "art_id": "mona_lisa",
+    "silhouettes": [
+      "amphora",
+      "vase"
+    ]
+  },
+  {
+    "city": "art.the_kiss.city",
+    "country": "art.the_kiss.country",
+    "pattern": "vienna",
+    "context": "art.the_kiss.context",
+    "slot_color": "#aa944f",
+    "art_id": "the_kiss",
+    "silhouettes": [
+      "bust",
+      "column"
+    ]
+  },
+  {
+    "city": "art.the_scream.city",
+    "country": "art.the_scream.country",
+    "pattern": "oslo",
+    "context": "art.the_scream.context",
+    "slot_color": "#ad754e",
+    "art_id": "the_scream",
+    "silhouettes": [
+      "vase",
+      "urn"
+    ]
+  },
+  {
+    "city": "art.birth_of_venus.city",
+    "country": "art.birth_of_venus.country",
+    "pattern": "florence",
+    "context": "art.birth_of_venus.context",
+    "slot_color": "#729e9d",
+    "art_id": "birth_of_venus",
+    "silhouettes": [
+      "column",
+      "amphora"
+    ]
+  },
+  {
+    "city": "art.water_lilies.city",
+    "country": "art.water_lilies.country",
+    "pattern": "giverny",
+    "context": "art.water_lilies.context",
+    "slot_color": "#8796ae",
+    "art_id": "water_lilies",
+    "silhouettes": [
+      "urn",
+      "bust"
+    ]
+  },
+  {
+    "city": "art.the_gleaners.city",
+    "country": "art.the_gleaners.country",
+    "pattern": "paris",
+    "context": "art.the_gleaners.context",
+    "slot_color": "#b39255",
+    "art_id": "the_gleaners",
+    "silhouettes": [
+      "amphora",
+      "vase"
+    ]
+  },
+  {
+    "city": "art.the_magpie.city",
+    "country": "art.the_magpie.country",
+    "pattern": "paris",
+    "context": "art.the_magpie.context",
+    "slot_color": "#879fab",
+    "art_id": "the_magpie",
+    "silhouettes": [
+      "bust",
+      "column"
+    ]
+  },
+  {
+    "city": "art.the_star.city",
+    "country": "art.the_star.country",
+    "pattern": "paris",
+    "context": "art.the_star.context",
+    "slot_color": "#94a184",
+    "art_id": "the_star",
+    "silhouettes": [
+      "vase",
+      "urn"
+    ]
+  },
+  {
+    "city": "art.dance_at_le_moulin_de_la_galette.city",
+    "country": "art.dance_at_le_moulin_de_la_galette.country",
+    "pattern": "paris",
+    "context": "art.dance_at_le_moulin_de_la_galette.context",
+    "slot_color": "#667d9e",
+    "art_id": "dance_at_le_moulin_de_la_galette",
+    "silhouettes": [
+      "column",
+      "amphora"
+    ]
+  },
+  {
+    "city": "art.apples_and_oranges.city",
+    "country": "art.apples_and_oranges.country",
+    "pattern": "paris",
+    "context": "art.apples_and_oranges.context",
+    "slot_color": "#b47b49",
+    "art_id": "apples_and_oranges",
+    "silhouettes": [
+      "urn",
+      "bust"
+    ]
+  }
+]
